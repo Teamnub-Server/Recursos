@@ -1,0 +1,115 @@
+# Registration
+reg_msg: '&4&lLogin &8| &rRegistrate con el comando: &6/register <contraseña> <ConfirmaContraseña>'
+usage_reg: '&4&lLogin &8| &rUso: &6/register <contraseña> <ConfirmaContraseña>'
+reg_only: '&4&lLogin &8| &4Only registered users can join the server! Please visit http://example.com to register yourself!'
+kicked_admin_registered: '&4&lLogin &8| An admin just registered you; please log in again'
+registered: '&4&lLogin &8| Registrado!'
+reg_disabled: '&4&lLogin &8| &cIn-game registration is disabled!'
+user_regged: '&4&lLogin &8| &cYa has registrado este nombre antes!'
+
+# Password errors on registration
+password_error: '&4&lLogin &8| &cLas contraseñas son diferentes, intenta de nuevo!'
+password_error_nick: '&4&lLogin &8| &cNo puedes usar tu nombre como contraseña, intenta de nuevo...'
+password_error_unsafe: '&4&lLogin &8| &cLa contraseña no es segura, intenta de nuevo...'
+password_error_chars: '&4&lLogin &8| &4Tu contraseña solo puede admitir los siguientes caracteres: REG_EX'
+pass_len: '&4&lLogin &8| &cTu contraseña es muy corta o muy larga, intenta otra!'
+
+# Login
+usage_log: '&4&lLogin &8| &rUso: &6/login <contraseña>'
+wrong_pwd: '&4&lLogin &8| &cContraseña equivocada!'
+login: '&4&lLogin &8| &2Logueado!'
+login_msg: '&4&lLogin &8| &rLogeate con el comando: &6/login <contraseña>'
+timeout: '&4&lLogin &8| &4Login timeout exceeded, you have been kicked from the server, please try again!'
+
+# Errors
+unknown_user: '&4&lLogin &8| &cEste nombre/usuario no está registrado!'
+denied_command: '&4&lLogin &8| &cPara usar este comando debes estar logueado!'
+denied_chat: '&4&lLogin &8| &cPara usar este comando debes estar logueado!'
+not_logged_in: '&4&lLogin &8| &cNo estas logueado!'
+tempban_max_logins: '&4&lLogin &8| &cYou have been temporarily banned for failing to log in too many times.'
+max_reg: '&4&lLogin &8| &cHas excedido el máximo de cuentas (%reg_count/%max_acc %reg_names) para tu conexión!'
+no_perm: '&4&lLogin &8| &4No tienes los suficientes permisos!'
+error: '&4&lLogin &8| &4Un error ha ocurrido. Contacta un administrador!'
+kick_forvip: '&4&lLogin &8| &3A VIP player has joined the server when it was full!'
+
+# AntiBot
+kick_antibot: '&4&lLogin &8| El sistema Antibot está activado! Espera unos minutos antes de volver a entrar.'
+antibot_auto_enabled: '&4[AntiBotService] AntiBot enabled due to the huge number of connections!'
+antibot_auto_disabled: '&2[AntiBotService] AntiBot disabled after %m minutes!'
+
+# Other messages
+unregistered: '&4&lLogin &8| &cTe has desuscrito!'
+accounts_owned_self: '&4&lLogin &8| &rTienes&6 %count &rcuentas:'
+accounts_owned_other: '&4&lLogin &8| El jugador&6 %name &rtiene&6 %count &rcuentas:'
+two_factor_create: '&4&lLogin &8| &2Tu código es&6 %code &2. Puedes escanearlo desde: %url'
+recovery_code_sent: '&4&lLogin &8| &rUn código de recuperación ha sido enviado a tu email.'
+recovery_code_incorrect: '&4&lLogin &8| &cEl código no es correcto! Tienes &6%count&c intentos restantes.'
+recovery_tries_exceeded: '&4&lLogin &8| &cHas excedido el máximo de intentos para ingresar el código. Usa &6/email recovery [email]&c para generar otro.'
+recovery_code_correct: '&4&lLogin &8| &rCódigo de recuperación correcto!'
+recovery_change_password: '&4&lLogin &8| &rUsa el comando &6/email setpassword <nueva contraseña>&r para cambiar tu contraseña.'
+vb_nonActiv: '&4&lLogin &8| &cTu cuenta no está activada, entra a tu email!'
+usage_unreg: '&4&lLogin &8| &cUso: &6/unregister <contraseña>'
+pwd_changed: '&4&lLogin &8| &2Contraseña cambiada!'
+logged_in: '&4&lLogin &8| &cYa estas logueado!'
+logout: '&4&lLogin &8| &2Deslogueado!'
+reload: '&4&lLogin &8| &2Configuration and database have been reloaded correctly!'
+usage_changepassword: '&4&lLogin &8| &cUso: &6/changepassword <antiguaContraseña> <nuevaContraseña>'
+
+# Session messages
+invalid_session: '&4&lLogin &8| &cTu IP ha cambiado y tu sesión ha expirado!'
+valid_session: '&4&lLogin &8| &2Sesión reconectada.'
+
+# Error messages when joining
+name_len: '&4&lLogin &8| &4Tu usuario es muy largo o muy corto!'
+regex: '&4&lLogin &8| &4Tu usuario solo puede contener letras, números y: REG_EX'
+country_banned: '&4&lLogin &8| &4Your country is banned from this server!'
+not_owner_error: '&4&lLogin &8| No eres el dueño de esta cuenta!'
+kick_fullserver: '&4&lLogin &8| &4El servidor está lleno!'
+same_nick: '&4&lLogin &8| &4Ese usuario ya está conectado en el servidor!'
+invalid_name_case: '&4&lLogin &8| Intenta entrando como %valid, no como %invalid.'
+same_ip_online: '&4&lLogin &8| A player with the same IP is already in game!'
+
+# Email
+usage_email_add: '&4&lLogin &8| &cUso: &6/email add <email> <confirmaEmail>'
+usage_email_change: '&4&lLogin &8| &cUso: &6/email change <viejoEmail> <nuevoEmail>'
+usage_email_recovery: '&4&lLogin &8| &cUso: &6/email recovery <Email>'
+new_email_invalid: '&4&lLogin &8| &cNuevo email inválido!'
+old_email_invalid: '&4&lLogin &8| &cAntiguo email inválido!'
+email_invalid: '&4&lLogin &8| &cEmail inválido!'
+email_added: '&4&lLogin &8| &2El email ha sido correctamente añadido!'
+email_confirm: '&4&lLogin &8| &cConfirma tu email!'
+email_changed: '&4&lLogin &8| &2Email cambiado correctamente!'
+email_send: '&4&lLogin &8| &2Recovery email sent successfully! Please check your email inbox!'
+email_show: '&4&lLogin &8| &2Tu email actual es: &f%email'
+incomplete_email_settings: '&4&lLogin &8| Error: not all required settings are set for sending emails. Please contact an admin.'
+email_already_used: '&4&lLogin &8| &4The email address is already being used'
+email_send_failure: '&4&lLogin &8| The email could not be sent. Please contact an administrator.'
+show_no_email: '&4&lLogin &8| &2No tienes ningún email asociado a esta cuenta.'
+add_email: '&4&lLogin &8| &3Añade un email a tu cuenta con: &6/email add <tuEmail> <confirmaEmail>'
+recovery_email: '&4&lLogin &8| &3Te olvidaste tu contraseña? Usa el comando: &6/email recovery <tuEmail>'
+change_password_expired: '&4&lLogin &8| &rYa no puedes cambiar tu contraseña usando este comando.'
+email_cooldown_error: '&4&lLogin &8| &cUn email ha sido enviado recientemente. Espera &e%time&c antes de hacerlo de nuevo.'
+
+# Captcha
+usage_captcha: '&4&lLogin &8| &rPara entrar debes resolver un captcha, por favor usa: &6/captcha <Captcha>'
+wrong_captcha: '&4&lLogin &8| &cCaptcha incorrecto, por favor usa &6/captcha <Captcha> &cen el chat.'
+valid_captcha: '&4&lLogin &8| &2Captcha resuelto!'
+
+# Verification code
+verification_code_required: '&4&lLogin &8| &3Este comando es sensible y necesita verificación de email. Revisa tu bandeja de entrada y sigue las instrucciones.'
+usage_verification_code: '&4&lLogin &8| &cUso: &e/verification <código>'
+incorrect_verification_code: '&4&lLogin &8| &cUso incorrecto, por favor usa &e/verification <código>&c en el chat, usando el código recibido por email.'
+verification_code_verified: '&4&lLogin &8| &2Tu identidad ha sido verificada! Ya puedes ejecutar los comandos que deseas.'
+verification_code_already_verified: '&2You can already execute every sensitive command within the current session!'
+verification_code_expired: '&4&lLogin &8| &3Tu código ha expirado! Usa otro comando sensible e intenta de nuevo.'
+verification_code_email_needed: '&4&lLogin &8| &3Para verificar tu identidad necesitas asociar un email.'
+
+# Time units
+second: 'segundo'
+seconds: 'segundos'
+minute: 'minuto'
+minutes: 'minutos'
+hour: 'hora'
+hours: 'horas'
+day: 'día'
+days: 'días'

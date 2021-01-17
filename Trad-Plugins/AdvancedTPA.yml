@@ -1,0 +1,43 @@
+Config:
+  General:
+    Prefix: ''
+    UseIgnoreFeature: false
+    IgnoreDisabled: '&4&lError &8| &rComando desconocido. Usa /menu para ver comandos.'
+    NoPermissions: '&4&lError &8| &rComando desconocido. Usa /menu para ver comandos.'
+  Sender:
+    UsageTpa: '&e&lTPA&8 |&r Uso: &6/tpa (Nombre)'
+    UsageAccept: '&e&lTPA&8 |&r Uso: &6/tpaccept (Nombre)'
+    UsageDeny: '&e&lTPA&8 |&r Uso: &6/tpdeny (Nombre)'
+    UsageIgnore: '&4&lError &8| &rComando desconocido. Usa /menu para ver comandos.'
+    CantSendToYourself: '&e&lTPA&8 |&r No puedes mandarte tpa a ti mismo!'
+    PlayerNotOnline: '&4&lError &8|&r &6%name%&r no está en línea!'
+    AlreadyRequested: '&e&lTPA&8 |&r Ya le has mandado a &6%name%&r una petición de
+      teletransporte!'
+    SentRequest: '&e&lTPA&8 |&r Has &eenviado una petición de teletransporte a &6%name%&r!'
+    NoRequest: '&e&lTPA&8 |&r La petición de &6%name% es inválida o ha expirado.s'
+    Cancelled: '&e&lTPA&8 | &rPetición cancelada de &6%name%'
+    NothingToCancel: '&e&lTPA&8 |&r No le has mandado una petición a nadie.'
+    Teleported: '&e&lTPA&8 | &rHas &aaceptado&r la petición, &6%name% &rse ha teletransportado
+      a ti.'
+    Denied: '&e&lTPA&8 | &rHas &crechazado&r la petición de &6%name%&r.'
+    Ignored: '&e&lTPA&8 | &rHas &eignorado&r la petición de &6%name%&r.'
+  Target:
+    SentRequest: '&e&lTPA&8 | &6%name% &rte ha enviado una petición de teletransporte!'
+    Teleported: '&e&lTPA&8 | &rHas sido teletransportado a &6%name%&r!'
+    Denied: '&e&lTPA&8 | &6%name% &rha rechazado tu petición.'
+    Cancelled: '&e&lTPA&8 | &6%name%&r ha cancelado la petición.'
+  Button:
+    Text: '&7Click aquí para:'
+    Accept:
+      Look: '&a&l[ACEPTAR]'
+      Hover: '&6%name%&r será &ateletransportado &rhacia ti.'
+    Ignore:
+      Look: '&6&l[IGNORAR]'
+      Hover: '&eRechaza &rla petición sin informar a &6%name%&r.'
+    Deny:
+      Look: '&c&l[RECHAZAR]'
+      Hover: '&cRechaza&r la petición de %name%&r.'
+    Cancel:
+      Text: '&7Click para cancelar la petición: '
+      Look: '&b&l[CANCELAR]'
+      Hover: '&4Cancelar &rla petición a &6%name%&r.'

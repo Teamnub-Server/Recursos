@@ -1,0 +1,49 @@
+deleteHome=§5§lHomes §8| §rLa Home§c {0} §rha sido borrada.
+homes=§5§lHomes §8| §rHomes\:§6 {0}
+homeSet=§5§lHomes §8| §rHome creada en esta ubicación.
+invalidHome=§5§lHomes §8| §cLa Home§6 {0} §cno existe\!
+invalidHomeName=§5§lHomes §8| §cNombre de home invalido\!
+maxHomes=§5§lHomes §8| §cNo puedes poner más de §e{0} §chomes.
+noHomeSetPlayer=§5§lHomes §8| §rEl jugador no ha puesto homes.
+teleportHome=§5§lHomes §8| §rTeletransportando a §e{0}§r.
+
+teleporting=§eTeletransportando...
+
+pTimeCurrent=§e§lTiempo §8| §rLa hora de §6{0} §res §e{1}§r.
+pTimeCurrentFixed=§e§lTiempo §8| §rLa hora de §6{0}§r está fijada a §e{1}§r.
+pTimeNormal=§e§lTiempo §8| §rLa hora de §6{0}§r coincide con la del servidor.
+pTimeOthersPermission=§e§lTiempo §8| §cNo puedes cambiar la hora de otros jugadores.
+pTimePlayers=§e§lTiempo §8| §rJugadores con su propia hora\: §6
+pTimeReset=§e§lTiempo §8| §rLa hora ha sido reseteada para §6{0}
+pTimeSet=§e§lTiempo §8| §rLa hora ha sido establecida a §6{0}§r para §e{1}.
+pTimeSetFixed=§e§lTiempo §8| §rLa hora ha sido fijada a §6{0}§r para §e{1}.
+pWeatherCurrent=§e§lTiempo §8| §rEl clima de §6{0} §res §e {1}§6.
+pWeatherInvalidAlias=§e§lTiempo §8| §4Tipo de clima inválido
+pWeatherNormal=§e§lTiempo §8| §rEl clima de §6{0}§r coincide con la del servidor.
+pWeatherOthersPermission=§e§lTiempo §8| §cNo puedes cambiar el clima de otros jugadores.
+pWeatherPlayers=§e§lTiempo §8| §rJugadores con su propio clima\:§6
+pWeatherReset=§e§lTiempo §8| §rEl clima ha sido reseteado para §6{0}
+pWeatherSet=§e§lTiempo §8| §rEl clima ha sido establecido a §6{0}§r para\: §e{1}.
+
+timeFormat=§6{0}§r o §6{1}§r o §6{2}§r
+
+msgDisabled=§d§lMsg §8| §rRecibir mensajes §cdesactivado§r.
+msgDisabledFor=§d§lMsg §8| §rRecibir mensajes §cdesactivado§r para §6{0}§r.
+msgEnabled=§d§lMsg §8| §rRecibir mensajes §aactivado§r.
+msgEnabledFor=§d§lMsg §8| §rRecibir mensajes §aactivado§r para §6{0}§r.
+msgFormat=§8| §6{0}§7 a §6{1}§8 » §7{2}
+msgIgnore=§d§lMsg §8| §6{0} §ctiene los mensajes desactivados.
+
+meSender=§eTú
+meRecipient=§eTi
+
+noPermToAFKMessage=§4§lAFK §8| §cNo tienes permisos para poner un mensaje de AFK.
+userAFK=§4§lAFK §8| §6{0} §restá afk y puede que no responda.
+userAFKWithMessage=§4§lAFK §8| §6{0} §restá afk y puede que no responda\: §e{1}
+
+userIsAway=§4§l● §8{0} §7está §nAFK§7.
+userIsAwayWithMessage=§4§l● §8{0} §7está §nAFK§7\: §e{1}
+userIsNotAway=§a§l● §8{0} §7ya no está §nAFK§7.
+userIsAwaySelf=§4§l● §7Ahora estás §nAFK§7. Salta o usa §e/afk§7 para salir.
+userIsAwaySelfWithMessage=§4§l● §7Ahora estás §nAFK§7. Salta o usa §e/afk§7 para salir.
+userIsNotAwaySelf=§a§l● §7Ya no estás §nAFK§7.

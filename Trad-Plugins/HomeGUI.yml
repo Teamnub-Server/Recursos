@@ -1,0 +1,13 @@
+gui-main-header: '&8Tus Homes'
+gui-icon-header: '&8Selecciona Ícono'
+gui-sethome-header: '&8SetHome'
+icon-select-message: '&5&lHomes &8| &rGuardado ícono &e{icon}&r para home &6{home}&r.'
+icon-select-lore-message: '&7Click para seleccionar material.'
+home-color: '&b&l'
+home-lore:
+- '&7Ubicación: &f{location}'
+- '&7Mundo: &f{world}'
+- ' '
+- '&7Click Izquierdo para Ir'
+- '&7Click Medio para Borrar'
+- '&7Click Derecho para Editar Ícono'

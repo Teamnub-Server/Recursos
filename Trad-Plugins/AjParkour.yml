@@ -1,0 +1,29 @@
+alreadyin: '&d&lParkour &8| &rYa estás en el parkour!'
+start:
+  score: '&d&lParkour &8| &rParkour iniciado! &rIntenta vencer tu récord de &e{SCORE}&r!'
+  first: '&d&lParkour &8| &rParkour iniciado!'
+
+noperm: '&4&lError &8| &rComando desconocido. Usa /menu para ver comandos.'
+score: '&rPuntuación: &6{SCORE} ⚝'
+beatrecord: '&d&lParkour &8| &aFelicidades!&r Has vencido tu récord anterior de &e{SCORE}&r!'
+beatrecord-ingame: '&d&lParkour &8| &aFelicidades! &7Has vencido tu récord anterior!
+  Sigue jugando!'
+disabledworld: '&d&lParkour &8| &cNo puedes iniciar el parkour desde este mundo!'
+
+areafull: '&d&lParkour &8| &cNo pudiste entrar porque el área está llena! &rIntenta
+  más tarde.'
+must-be-ingame: '&d&lParkour &8| &cDebes estar en juego para hacer eso!'
+not-in-game: '&4&lError &8| &rComando desconocido. Usa /menu para ver comandos.'
+
+nobodys-played-yet: '&d&lParkour &8| &cNadie ha jugado Parkour aún!'
+
+fall:
+  normal: '&d&lParkour &8| &cTe has caído! &rTu puntaje fue de &e{SCORE}&r.'
+  force:
+    base: '&d&lParkour &8| &cTu juego de parkour ha terminado porque '
+    reasons:
+      teleport: te teletransportaste
+    afk: te fuiste AFK.
+
+max-score-reached: '&d&lParkour &8| &rHas alcanzado el puntaje máximo! &rTu juego
+  ha acabado.'
