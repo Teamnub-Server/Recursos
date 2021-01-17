@@ -1,0 +1,1081 @@
+# Este es otro de los que más demoró
+# MISC
+quarkmisc.chestButton.restock=Reprovisionar
+quarkmisc.chestButton.deposit=Depositar
+quarkmisc.chestButton.smart_deposit=Fusionar
+quarkmisc.chestButton.dropoff=Depositar a Cofres cercanos
+quarkmisc.chestButton.dropoff.shift=Fusionar a Cofres cercanos
+quarkmisc.chestButton.sort=Ordenar
+quarkmisc.chestButton.sort_player=Ordenar
+quarkmisc.chestButton.extract=Extraer
+quarkmisc.incrementNote=Incrementar Nota
+quarkmisc.craftButton.redo=Rehacer Receta
+quarkmisc.craftButton.balance=Balancear Cuadrícula
+quarkmisc.shulkerBoxShift=Mantén Shift para ver lo que contiene
+quarkmisc.mapShift=Mantén Shift para ver el mapa
+quarkmisc.keyboundButton=%sPress %s
+quarkmisc.nowAfk=Estás AFK.
+quarkmisc.leftAfk=Ya no estás AFK.
+quarkmisc.personSleeping=%s está durmiendo.
+quarkmisc.personNotSleeping=%s ha salido de su cama.
+quarkmisc.personNapping=%s está en una siesta.
+quarkmisc.personNotNapping=%s ya no está en una siesta.
+quarkmisc.nightHasPassed=La noche ha pasado.
+quarkmisc.dayHasPassed=El día ha pasado.
+# The %s is very important!
+quarkmisc.sleepingListHeader=Personas Durmiendo: %s
+quarkmisc.nappingListHeader=Personas en Siestas: %s
+quarkmisc.buried_chest_map=Mapa de Tesoro Enterrado
+quarkmisc.trashButtonOpen=Click para Eliminar
+quarkmisc.trashButtonShift=Mantén Shift para abrir
+quarkmisc.signShift=Shift
+quarkmisc.signClear=Borrar
+quarkmisc.rotationLockBefore=Has activado el Bloqueo de Rotación. Cualquier bloque que pongas van a mirar hacia en la dirección de cuando lo activaste. Presiona [
+quarkmisc.rotationLockAfter=] para cambiar o resetearlo. Este mensaje solo aparecerá una vez.
+quarkmisc.rightClickAdd=Click Derecho para Añadir
+quarkmisc.panoramaSaved=Guardado Panorama como %s
+quarkmisc.patronPlugNone=Quark es posible gracias al soporte de muchos patrons!
+quarkmisc.patronPlug=Quark es posible gracias al soporte de %s y otros!
+quarkmisc.supportMessage=Gracias por tu soporte, %s!
+quarkmisc.matrixLeftClick=Click Derecho para seleccionar
+quarkmisc.matrixRightClick=Click Izquierdo para rotar
+quarkmisc.matrixMerge=Click para Mejorar
+quarkmisc.matrixMin=Mín: %d
+quarkmisc.matrixUpgrade=Mejora: %d/%d
+quarkmisc.matrixInfluence=Influencia de Vela: +%d%%
+quarkmisc.pendingEnchants=Tiene Encantamientos Pendientes
+quarkmisc.item_out_of_stock=Agotado, vuelve más tarde
+quarkmisc.out_of_stock=%s está agotado, vuelve más tarde
+quarkmisc.me_or_my_son=Nunca más me hables a mi o a mi hijo.
+
+#NOTE TO FUTURE TRANSLATORS: This is a song parody. It's not advisable to translate it.
+#NOTA PARA TRADUCTORES FUTUROS: Esta es una parodia de una canción. No es recomendable traducirlo.
+quarkmisc.you_came_to_the_wrong_neighborhood.0=Six letter word just to get me along
+quarkmisc.you_came_to_the_wrong_neighborhood.1=It's a intricacy and I'm coding on my mod and I,
+quarkmisc.you_came_to_the_wrong_neighborhood.2=I keep fixin', and keepin' it together
+quarkmisc.you_came_to_the_wrong_neighborhood.3=People around gotta find something to play now
+quarkmisc.you_came_to_the_wrong_neighborhood.4=Holding back, every mod's the same
+quarkmisc.you_came_to_the_wrong_neighborhood.5=Don't wanna be a loser
+quarkmisc.you_came_to_the_wrong_neighborhood.6=Listen to me, oh no, I don't break anything at all
+quarkmisc.you_came_to_the_wrong_neighborhood.7=But with nothing to consider they forget my name
+quarkmisc.you_came_to_the_wrong_neighborhood.8='ame, 'ame, 'ame
+quarkmisc.you_came_to_the_wrong_neighborhood.9=They call me Vaskii
+quarkmisc.you_came_to_the_wrong_neighborhood.10=They call me Vazki
+quarkmisc.you_came_to_the_wrong_neighborhood.11=They call me Voskii
+quarkmisc.you_came_to_the_wrong_neighborhood.12=They call me Vazkki
+quarkmisc.you_came_to_the_wrong_neighborhood.13=That's not my name
+quarkmisc.you_came_to_the_wrong_neighborhood.14=That's not my name
+quarkmisc.you_came_to_the_wrong_neighborhood.15=That's not my name
+quarkmisc.you_came_to_the_wrong_neighborhood.16=That's not my name
+
+# SUBTITLES
+quark.subtitles.soulpowder_scream=Alma escapa
+quark.subtitles.pipe_shoot=Conducto expulsa
+quark.subtitles.pipe_pickup=Conducto absorbe
+quark.subtitles.pipe_shoot_lenny=Conducto derrama
+quark.subtitles.pipe_pickup_lenny=Conducto chupa
+quark.subtitles.sponge_hiss=Esponja se seca
+quark.subtitles.boat_add_item=Bote es decorado
+quark.subtitles.cursed=Algo anda mal
+quark.subtitles.growl=Mounstros emergen
+quark.subtitles.meep=Stoneling corre
+quark.subtitles.give_stoneling=Stoneling agarra item
+quark.subtitles.take_stoneling=Stoneling da item
+quark.subtitles.feed_stoneling=Stoneling es alimentado
+quark.subtitles.hurt_stoneling=Stoneling llora
+quark.subtitles.kill_stoneling=Stoneling rompe
+quark.subtitles.purr=Stoneling hace purr
+quark.subtitles.hump_day=Es Miércoles, mis compañeros
+quark.subtitles.throw_pickarang=Pickarang es arrojado
+quark.subtitles.clank_pickarang=Pickarang suena
+quark.subtitles.pickup_pickarang=Pickarang es agarrado
+quark.subtitles.frog_die=Rana croa
+quark.subtitles.frog_hurt=Rana se retuerce
+quark.subtitles.frog_idle=Rana hace ribbit
+quark.subtitles.frog_jump=Rana salta
+
+quark.subtitles.horse_whistle=Chillidos agudos
+quark.subtitles.do_it=Motivación
+quark.subtitles.michael_here=Michael está aquí
+
+# COMMANDS
+commands.quarkconfig.usage=/quark-config <categoría> <key> <valor> [jugador] [save?]
+commands.quarkconfig.invalid_property=La propiedad %s.%s no existe
+commands.quarkconfig.invalid_category=La categoría %s no existe
+
+# CONFIG STRINGS
+quark.config.title=Configuración de Quark
+quark.config.import=Importar Config
+quark.config.configure=Configurar Quark
+quark.config.opensite=Sitio Web de Quark
+quark.config.general=Opciones Generales
+quark.config.close=Cerrar Juego
+quark.config.reddit=Reddit
+quark.config.donate=Donar
+quark.config.skip=Adelantar al Menú Principal
+quark.config.enableq=Activar Botón "q"
+quark.config.qdisabled=(Si desactivas el botón q, puedes acceder este menú desde la lista de Mods)
+quark.config.needrestart=(Algunas opciones necesitan que reinicies el juego)
+quark.config.importinfo0=Puedes importar una lista de opciones desactivadas desde el sitio web de Quark
+quark.config.importinfo1=usando este menú. En el sitio web, da click en el check en cualquier característica
+quark.config.importinfo2=que quisieras desactivar. Cuando termines, click en el botón de Copiar/Copy.
+quark.config.importinfo3=Puedes importarlo pegándolo (presiona Ctrl+V) en el cuadro de texto. 
+quark.config.importinfo3m=Puedes importarlo pegándolo (presiona Cmd+V) en el cuadro de texto. 
+quark.config.disabledcount=%d Características desactivadas. Por favor Reinicia tu juego:
+quark.config.disabledcount1=1 Característica desactivada. Por favor Reinicia tu juego:
+quark.config.cantimport=No puedes importar una Config. si un mundo está cargado
+
+quark.config.firstload=Primera Carga
+quark.config.firstloadinfo0=¡Bienvenido a Quark! Quark tiene muchas características, así que puedes visitar el sitio web de Quark
+quark.config.firstloadinfo1=para una guía rápida. Todas las características pueden ser desactivadas, así que siéntete libre de
+quark.config.firstloadinfo2=presionar el botón Configurar Quark para desactivar características que no sean de tu agrado.
+quark.config.firstloadinfo3=En el menú Configuración puedes usar el botón Importar Config para
+quark.config.firstloadinfo4=importar una lista de características desactivadas del sitio web de Quark.
+quark.config.firstloadinfo5=PRECAUCIÓN
+quark.config.firstloadinfo6=Si vas a jugar en un servidor Vanilla, o un servidor con mods
+quark.config.firstloadinfo7=que no tiene Quark instalado. NECESITAS desactivar todos los módulos excepto
+quark.config.firstloadinfo8=Cliente, o encontrarás incompatibilidades y/o crashes. Si estás jugando en un servidor 
+quark.config.firstloadinfo9=que tiene Quark, no desactives nada fuera de Cliente.
+quark.config.module.automation=Automatización
+quark.config.module.building=Construcción
+quark.config.module.client=Cliente
+quark.config.module.decoration=Decoración
+quark.config.module.experimental=Experimental
+quark.config.module.management=Administración
+quark.config.module.misc=Miscelánea
+quark.config.module.tweaks=Tweaks
+quark.config.module.vanity=Vanidad
+quark.config.module.world=Mundo
+quark.config.module.oddities=Oddities
+
+# BLOCK NAMES
+tile.quark:hardened_clay_tiles.name=Teja de Arcilla Endurecida
+tile.quark:hardened_clay_tiles_slab.name=Losa de Teja de Arcilla Endurecida
+tile.quark:hardened_clay_tiles_stairs.name=Escaleras de Teja de Arcilla Endurecida
+tile.quark:stained_clay_tiles_black.name=Teja de Arcilla Endurecida Negra
+tile.quark:stained_clay_tiles_blue.name=Teja de Arcilla Endurecida Azul
+tile.quark:stained_clay_tiles_brown.name=Teja de Arcilla Endurecida Marrón
+tile.quark:stained_clay_tiles_cyan.name=Teja de Arcilla Endurecida Cian
+tile.quark:stained_clay_tiles_gray.name=Teja de Arcilla Endurecida Gris
+tile.quark:stained_clay_tiles_green.name=Teja de Arcilla Endurecida Verde
+tile.quark:stained_clay_tiles_light_blue.name=Teja de Arcilla Endurecida Azul Claro
+tile.quark:stained_clay_tiles_lime.name=Teja de Arcilla Endurecida Lima
+tile.quark:stained_clay_tiles_magenta.name=Teja de Arcilla Endurecida Magenta
+tile.quark:stained_clay_tiles_orange.name=Teja de Arcilla Endurecida Naranja
+tile.quark:stained_clay_tiles_pink.name=Teja de Arcilla Endurecida Rosa
+tile.quark:stained_clay_tiles_purple.name=Teja de Arcilla Endurecida Morada
+tile.quark:stained_clay_tiles_red.name=Teja de Arcilla Endurecida Roja
+tile.quark:stained_clay_tiles_silver.name=Teja de Arcilla Endurecida Gris Claro
+tile.quark:stained_clay_tiles_white.name=Teja de Arcilla Endurecida Blanca
+tile.quark:stained_clay_tiles_yellow.name=Teja de Arcilla Endurecida Amarilla
+
+tile.quark:stained_clay_tiles_black_stairs.name=Escaleras de Teja de Arcilla Endurecida Negra
+tile.quark:stained_clay_tiles_blue_stairs.name=Escaleras de Teja de Arcilla Endurecida Azul
+tile.quark:stained_clay_tiles_brown_stairs.name=Escaleras de Teja de Arcilla Endurecida Marrón
+tile.quark:stained_clay_tiles_cyan_stairs.name=Escaleras de Teja de Arcilla Endurecida Cian
+tile.quark:stained_clay_tiles_gray_stairs.name=Escaleras de Teja de Arcilla Endurecida Gris
+tile.quark:stained_clay_tiles_green_stairs.name=Escaleras de Teja de Arcilla Endurecida Verde
+tile.quark:stained_clay_tiles_light_blue_stairs.name=Escaleras de Teja de Arcilla Endurecida Azul Claro
+tile.quark:stained_clay_tiles_lime_stairs.name=Escaleras de Teja de Arcilla Endurecida Lima
+tile.quark:stained_clay_tiles_magenta_stairs.name=Escaleras de Teja de Arcilla Endurecida Magenta
+tile.quark:stained_clay_tiles_orange_stairs.name=Escaleras de Teja de Arcilla Endurecida Naranja
+tile.quark:stained_clay_tiles_pink_stairs.name=Escaleras de Teja de Arcilla Endurecida Rosa
+tile.quark:stained_clay_tiles_purple_stairs.name=Escaleras de Teja de Arcilla Endurecida Morada
+tile.quark:stained_clay_tiles_red_stairs.name=Escaleras de Teja de Arcilla Endurecida Roja
+tile.quark:stained_clay_tiles_silver_stairs.name=Escaleras de Teja de Arcilla Endurecida Gris Claro
+tile.quark:stained_clay_tiles_white_stairs.name=Escaleras de Teja de Arcilla Endurecida Blanca
+tile.quark:stained_clay_tiles_yellow_stairs.name=Escaleras de Teja de Arcilla Endurecida Amarilla
+tile.quark:stained_clay_tiles_black_slab.name=Losa de Teja de Arcilla Endurecida Negra
+
+tile.quark:stained_clay_tiles_blue_slab.name=Losa de Teja de Arcilla Endurecida Azul
+tile.quark:stained_clay_tiles_brown_slab.name=Losa de Teja de Arcilla Endurecida Marrón
+tile.quark:stained_clay_tiles_cyan_slab.name=Losa de Teja de Arcilla Endurecida Cian
+tile.quark:stained_clay_tiles_gray_slab.name=Losa de Teja de Arcilla Endurecida Gris
+tile.quark:stained_clay_tiles_green_slab.name=Losa de Teja de Arcilla Endurecida Verde
+tile.quark:stained_clay_tiles_light_blue_slab.name=Losa de Teja de Arcilla Endurecida Azul Claro
+tile.quark:stained_clay_tiles_lime_slab.name=Losa de Teja de Arcilla Endurecida Lima
+tile.quark:stained_clay_tiles_magenta_slab.name=Losa de Teja de Arcilla Endurecida Magenta
+tile.quark:stained_clay_tiles_orange_slab.name=Losa de Teja de Arcilla Endurecida Naraja
+tile.quark:stained_clay_tiles_pink_slab.name=Losa de Teja de Arcilla Endurecida Rosa
+tile.quark:stained_clay_tiles_purple_slab.name=Losa de Teja de Arcilla Endurecida Morada
+tile.quark:stained_clay_tiles_red_slab.name=Losa de Teja de Arcilla Endurecida Roja
+tile.quark:stained_clay_tiles_silver_slab.name=Losa de Teja de Arcilla Endurecida Gris Claro
+tile.quark:stained_clay_tiles_white_slab.name=Losa de Teja de Arcilla Endurecida Blanca
+tile.quark:stained_clay_tiles_yellow_slab.name=Losa de Teja de Arcilla Endurecida Amarilla
+
+tile.quark:stone_basalt.name=Basalto
+tile.quark:stone_basalt_smooth.name=Basalto Pulido
+tile.quark:stone_basalt_slab.name=Losa de Basalto
+tile.quark:stone_basalt_stairs.name=Escaleras de Basalto
+tile.quark:stone_marble.name=Mármol
+tile.quark:stone_marble_smooth.name=Mármol Pulido
+tile.quark:stone_marble_slab.name=Losa de Mármol
+tile.quark:stone_marble_stairs.name=Escaleras de Mármol
+tile.quark:stone_limestone.name=Caliza
+tile.quark:stone_limestone_smooth.name=Caliza Pulida
+tile.quark:stone_limestone_slab.name=Losa de Caliza
+tile.quark:stone_limestone_stairs.name=Escaleras de Caliza
+tile.quark:stone_jasper.name=Jaspe
+tile.quark:stone_jasper_smooth.name=Jaspe Pulido
+tile.quark:stone_jasper_slab.name=Losa de Jaspe
+tile.quark:stone_jasper_stairs.name=Escaleras de Jaspe
+tile.quark:stone_slate.name=Pizarra
+tile.quark:stone_slate_smooth.name=Pizarra Pulida
+tile.quark:stone_slate_slab.name=Losa de Pizarra
+tile.quark:stone_slate_stairs.name=Escaleras de Pizarra
+
+tile.quark:stone_stairs.name=Escaleras de Piedra
+tile.quark:stone_granite_slab.name=Losa de Granito
+tile.quark:stone_granite_stairs.name=Escaleras de Granito
+tile.quark:stone_diorite_slab.name=Losa de Diorita
+tile.quark:stone_diorite_stairs.name=Escaleras de Diorita
+tile.quark:stone_andesite_slab.name=Losa de Andesita
+tile.quark:stone_andesite_stairs.name=Escaleras de Andesita
+tile.quark:end_bricks_slab.name=Losa de Ladrillos de Piedra del End
+tile.quark:end_bricks_stairs.name=Escaleras de Ladrillos de Piedra del End
+tile.quark:prismarine_slab.name=Losa de Prismarina
+tile.quark:prismarine_stairs.name=Escaleras de Prismarina
+
+tile.quark:prismarine_bricks_slab.name=Losa de Ladrillos de Prismarina
+tile.quark:prismarine_bricks_stairs.name=Escaleras de Ladrillos de Prismarina
+tile.quark:prismarine_dark_slab.name=Losa de Prismarina Oscura
+tile.quark:prismarine_dark_stairs.name=Escaleras de Prismarina Oscura
+
+tile.quark:stone_diorite_bricks.name=Ladrillos de Diorita
+tile.quark:stone_granite_bricks.name=Ladrillos de Granito
+tile.quark:stone_andesite_bricks.name=Ladrillos de Andesita 
+tile.quark:stone_basalt_bricks.name=Ladrillos de Basalto
+tile.quark:stone_marble_bricks.name=Ladrillos de Mármol
+tile.quark:stone_limestone_bricks.name=Ladrillos de Caliza
+tile.quark:stone_jasper_bricks.name=Ladrillos de Jaspe
+tile.quark:stone_slate_bricks.name=Ladrillos de Pizarra
+
+tile.quark:stone_diorite_bricks_slab.name=Losa de Ladrillos de Diorita
+tile.quark:stone_granite_bricks_slab.name=Losa de Ladrillos de Granito
+tile.quark:stone_andesite_bricks_slab.name=Losa de Ladrillos de Andesita
+tile.quark:stone_basalt_bricks_slab.name=Losa de Ladrillos de Basalto
+tile.quark:stone_marble_bricks_slab.name=Losa de Ladrillos de Mármol
+tile.quark:stone_limestone_bricks_slab.name=Losa de Ladrillos de Caliza
+tile.quark:stone_jasper_bricks_slab.name=Losa de Ladrillos de Jaspe
+tile.quark:stone_slate_bricks_slab.name=Losa de Ladrillos de Pizarra
+
+tile.quark:stone_diorite_bricks_stairs.name=Escaleras de Ladrillos de Diorita
+tile.quark:stone_granite_bricks_stairs.name=Escaleras de Ladrillos de Granito
+tile.quark:stone_andesite_bricks_stairs.name=Escaleras de Ladrillos de Andesita
+tile.quark:stone_basalt_bricks_stairs.name=Escaleras de Ladrillos de Basalto
+
+tile.quark:stone_marble_bricks_stairs.name=Escaleras de Ladrillos de Mármol
+tile.quark:stone_limestone_bricks_stairs.name=Escaleras de Ladrillos de Caliza
+tile.quark:stone_jasper_bricks_stairs.name=Escaleras de Ladrillos de Jaspe
+tile.quark:stone_slate_bricks_stairs.name=Escaleras de Ladrillos de Pizarra
+tile.quark:stone_diorite_carved.name=Ladrillos de Diorita Cincelados
+tile.quark:stone_granite_carved.name=Ladrillos de Granito Cincelados
+tile.quark:stone_andesite_carved.name=Ladrillos de Andesita Cincelados
+tile.quark:stone_basalt_carved.name=Ladrillos de Basalto Cincelados
+tile.quark:stone_marble_carved.name=Ladrillos de Mármol Cincelados
+tile.quark:stone_limestone_carved.name=Ladrillos de Caliza Cincelados
+tile.quark:stone_jasper_carved.name=Ladrillos de Jaspe Cincelados
+tile.quark:stone_slate_carved.name=Ladrillos de Pizarra Cincelados
+
+tile.quark:obsidian_pressure_plate.name=Placa de Presión de Obsidiana
+tile.quark:lit_lamp.name=Lámpara de Redstone Iluminada
+tile.quark:blaze_lantern.name=Linterna de Blaze
+tile.quark:sandy_bricks.name=Ladrillos Arenosos
+tile.quark:thatch.name=Paja
+
+tile.quark:sandy_bricks_slab.name=Losa de Ladrillos Arenosos
+tile.quark:thatch_slab.name=Losa de Paja
+tile.quark:sandy_bricks_stairs.name=Escaleras de Ladrillos Arenosos
+tile.quark:thatch_stairs.name=Escaleras de Paja
+tile.quark:reed_block.name=Bloque de Caña de Azúcar
+tile.quark:reed_block_slab.name=Losa de Bloque de Caña de Azúcar
+tile.quark:reed_block_stairs.name=Escaleras de Caña de Azúcar
+
+tile.quark:paper_wall.name=Muro de Papel
+tile.quark:paper_wall_big.name=Muro de Papel Grande
+tile.quark:paper_wall_sakura.name=Muro de Papel Decorado
+
+tile.quark:bark_oak.name=Corteza de Roble
+tile.quark:bark_spruce.name=Corteza de Abeto
+tile.quark:bark_birch.name=Corteza de Abedul
+tile.quark:bark_jungle.name=Corteza de Jungla
+tile.quark:bark_acacia.name=Corteza de Acacia
+tile.quark:bark_dark_oak.name=Corteza de Roble Oscuro
+tile.quark:spruce_trapdoor.name=Trampilla de Abeto 
+tile.quark:birch_trapdoor.name=Trampilla de Abedul
+tile.quark:jungle_trapdoor.name=Trampilla de Jungla
+tile.quark:acacia_trapdoor.name=Trampilla de Acacia
+tile.quark:dark_oak_trapdoor.name=Trampilla de Roble Oscuro
+tile.oak_trapdoor.name=Trampilla de Roble
+
+tile.quark:end_bricks_wall.name=Muro de Ladrillos del End
+tile.quark:purpur_block_wall.name=Muro de Purpur
+tile.quark:stone_wall.name=Muro de Piedra
+tile.quark:stone_granite_wall.name=Muro de Granito
+tile.quark:stone_diorite_wall.name=Muro de Diorita
+tile.quark:stone_andesite_wall.name=Muro de Andesita
+tile.quark:sandstone_wall.name=Muro de Arenisca
+tile.quark:red_sandstone_wall.name=Muro de Arenisca Roja
+tile.quark:stonebrick_wall.name=Muro de Ladrillos de Piedra
+tile.quark:brick_wall.name=Muro de Ladrillos
+tile.quark:quartz_wall.name=Muro de Cuarzo
+
+tile.quark:prismarine_rough_wall.name=Muro de Prismarina
+tile.quark:prismarine_bricks_wall.name=Muro de Ladrillos de Prismarina
+tile.quark:dark_prismarine_wall.name=Muro de Prismarina Oscura
+tile.quark:bark_oak_wall.name=Muro de Corteza de Roble
+tile.quark:bark_spruce_wall.name=Muro de Corteza de Abeto
+tile.quark:bark_birch_wall.name=Muro de Corteza de Abedul
+tile.quark:bark_jungle_wall.name=Muro de Corteza de Jungla
+tile.quark:bark_acacia_wall.name=Muro de Corteza de Acacia
+tile.quark:bark_dark_oak_wall.name=Muro de Corteza de Roble Oscuro
+
+tile.quark:stone_granite_bricks_wall.name=Muro de Ladrillos de Granito
+tile.quark:stone_diorite_bricks_wall.name=Muro de Ladrillos de Diorita
+tile.quark:stone_andesite_bricks_wall.name=Muro de Ladrillos de Andesita
+tile.quark:stone_basalt_bricks_wall.name=Muro de Ladrillos de Basalto
+
+tile.quark:stone_marble_bricks_wall.name=Muro de Ladrillos de Mármol
+tile.quark:stone_limestone_bricks_wall.name=Muro de Ladrillos de Caliza
+tile.quark:stone_jasper_bricks_wall.name=Muro de Ladrillos de jaspe
+tile.quark:stone_slate_bricks_wall.name=Muro de Ladrillos de Pizarra
+
+tile.quark:sandy_bricks_wall.name=Muro de Ladrillos Arenosos
+tile.quark:reed_block_wall.name=Muro de Caña de Azúcar
+tile.quark:basalt_wall.name=Muro de Basalto
+
+tile.quark:marble_wall.name=Muro de Mármol
+tile.quark:limestone_wall.name=Muro de Caliza
+tile.quark:jasper_wall.name=Muro de Jaspe
+tile.quark:slate_wall.name=Muro de Pizarra
+
+tile.quark:polished_stone.name=Piedra Pulida
+tile.quark:carved_oak_wood.name=Madera de Roble Tallada
+tile.quark:carved_spruce_wood.name=Madera de Abeto Tallada
+tile.quark:carved_birch_wood.name=Madera de Abedul Tallada
+tile.quark:carved_jungle_wood.name=Madera de Jungla Tallada
+tile.quark:carved_acacia_wood.name=Madera de Acacia Tallada
+tile.quark:carved_dark_oak_wood.name=Madera de Roble Oscuro Tallada
+
+tile.quark:biotite_ore.name=Mena de Biotita del End
+tile.quark:biotite_block.name=Bloque de Biotita
+tile.quark:chiseled_biotite_block.name=Bloque de Biotita Cincelado
+tile.quark:pillar_biotite_block.name=Pilar de Biotita
+tile.quark:biotite_slab.name=Losa de Biotita
+tile.quark:biotite_stairs.name=Escaleras de Biotita
+tile.quark:biotite_wall.name=Muro de Biotita
+
+tile.quark:rain_detector.name=Sensor de Clima
+tile.quark:ender_watcher.name=Observador del End
+tile.quark:snow_bricks.name=Ladrillos de Nieve
+tile.quark:snow_bricks_slab.name=Losa de Ladrillos de Nieve
+tile.quark:snow_bricks_stairs.name=Escaleras de Ladrillos de Nieve
+tile.quark:snow_bricks_wall.name=Muro de Ladrillos de Nieve
+tile.quark:charred_nether_bricks.name=Ladrillos del Nether Carbonizados
+tile.quark:charred_nether_brick_slab.name=Losa de Ladrillos del Nether Carbonizados
+tile.quark:charred_nether_brick_stairs.name=Escaleras de Ladrillos del Nether Carbonizados
+
+tile.quark:sandstone_smooth.name=Arenisca Pulida
+tile.quark:sandstone_bricks.name=Ladrillos de Arenisca
+tile.quark:sandstone_smooth_slab.name=Losa de Arenisca Lisa
+tile.quark:sandstone_bricks_slab.name=Losa de Ladrillos de Arenisca
+tile.quark:sandstone_bricks_stairs.name=Escaleras de Ladrillos de Arenisca
+
+tile.quark:red_sandstone_smooth.name=Arenisca Roja Lisa
+tile.quark:red_sandstone_bricks.name=Ladrillos de Arenisca Roja
+tile.quark:red_sandstone_smooth_slab.name=Losa de Arenisca Roja Lisa
+tile.quark:red_sandstone_bricks_slab.name=Losa de Ladrillos de Arenisca Roja
+tile.quark:red_sandstone_bricks_stairs.name=Escaleras de Ladrillos de Arenisca Roja
+
+tile.quark:soul_sandstone_smooth.name=Arenisca de Almas Lisa
+tile.quark:soul_sandstone_bricks.name=Ladrillos de Arenisca de Almas
+tile.quark:soul_sandstone_smooth_slab.name=Losa de Arenisca de Almas Lisa
+tile.quark:soul_sandstone_bricks_slab.name=Losa de Ladrillos de Arenisca de Almas
+tile.quark:soul_sandstone_bricks_stairs.name=Escaleras de Ladrillos de Arenisca de Almas
+
+tile.quark:nether_brick_fence_gate.name=Puerta de Valla de Ladrillos del Nether
+tile.quark:charcoal_block.name=Bloque de Carbon Vegetal
+tile.quark:red_nether_brick_slab.name=Losa de Ladrillos del Nether Rojos
+tile.quark:red_nether_brick_stairs.name=Escalera de Ladrillos del Nether Rojos
+tile.quark:midori_block.name=Bloque de Midori
+tile.quark:midori_pillar.name=Pilar de Midori
+tile.quark:midori_block_slab.name=Losa de Midori
+tile.quark:midori_block_stairs.name=Escaleras de Midori
+tile.quark:midori_block_wall.name=Muro de Midori
+
+tile.oak_chest.name=Cofre de Roble
+tile.quark:custom_chest_spruce.name=Cofre de Abeto
+tile.quark:custom_chest_birch.name=Cofre de Abedul
+tile.quark:custom_chest_jungle.name=Cofre de Jungla 
+tile.quark:custom_chest_acacia.name=Cofre de Acacia
+tile.quark:custom_chest_dark_oak.name=Cofre de Roble Oscuro
+
+tile.oak_chest_trap.name=Cofre Trampa de Roble
+tile.quark:custom_chest_spruce_trap.name=Cofre Trampa de Abeto
+tile.quark:custom_chest_birch_trap.name=Cofre Trampa de Abedul
+tile.quark:custom_chest_jungle_trap.name=Cofre Trampa de Jungla
+tile.quark:custom_chest_acacia_trap.name=Cofre Trampa de Acacia
+tile.quark:custom_chest_dark_oak_trap.name=Cofre Trampa de Roble Oscuro
+
+tile.quark:iron_plate.name=Placa de Hierro
+tile.quark:rusty_iron_plate.name=Placa de Hierro Oxidada
+tile.quark:iron_plate_slab.name=Losa de Placa de Hierro
+tile.quark:iron_plate_stairs.name=Escaleras de Placa de Hierro
+
+tile.quark:oak_leaf_carpet.name=Alfombra de Hojas de Roble
+tile.quark:spruce_leaf_carpet.name=Alfombra de Hojas de Abeto
+tile.quark:birch_leaf_carpet.name=Alfombra de Hojas de Abedul
+tile.quark:jungle_leaf_carpet.name=Alfombra de Hojas de Jungla
+tile.quark:acacia_leaf_carpet.name=Alfombra de Hojas de Acacia
+tile.quark:dark_oak_leaf_carpet.name=Alfombra de Hojas de Roble Oscuro
+tile.quark:swamp_leaf_carpet.name=Alfombra de Hojas de Roble de Pantano
+tile.quark:sakura_leaf_carpet.name=Alfombra de Hojas de Sakura
+
+tile.oak_bookshelf.name=Libreria de Roble
+tile.quark:bookshelf_spruce.name=Libreria de Abeto
+tile.quark:bookshelf_birch.name=Libreria de Abedul
+tile.quark:bookshelf_jungle.name=Libreria de Jungla
+tile.quark:bookshelf_acacia.name=Libreria de Acacia
+tile.quark:bookshelf_dark_oak.name=Libreria de Roble Oscuro
+
+tile.quark:vertical_oak_planks.name=Madera de Roble Vertical
+tile.quark:vertical_spruce_planks.name=Madera de Abeto Vertical
+tile.quark:vertical_birch_planks.name=Madera de Abedul Vertical
+tile.quark:vertical_jungle_planks.name=Madera de Jungla Vertical
+tile.quark:vertical_acacia_planks.name=Madera de Acacia Vertical
+tile.quark:vertical_dark_oak_planks.name=Madera de Roble Oscuro Vertical
+
+tile.quark:soul_sandstone.name=Arenisca de Almas
+tile.quark:chiseled_soul_sandstone.name=Arenisca de Almas Cinceleada
+tile.quark:smooth_soul_sandstone.name=Arenisca de Almas Lisa
+tile.quark:soul_sandstone_slab.name=Losa de Arenisca de Almas
+tile.quark:soul_sandstone_stairs.name=Escaleras de Arenisca de Almas
+tile.quark:soul_sandstone_wall.name=Muro de Arenisca de Almas
+
+tile.quark:iron_ladder.name=Escaleras de Hierro
+
+tile.quark:crystal_white.name=Cristal de Cueva Blanco
+tile.quark:crystal_red.name=Cristal de Cueva Rojo
+tile.quark:crystal_orange.name=Cristal de Cueva Naranja
+tile.quark:crystal_yellow.name=Cristal de Cueva Amarillo
+tile.quark:crystal_green.name=Cristal de Cueva Verde
+tile.quark:crystal_blue.name=Cristal de Cueva Azul
+tile.quark:crystal_indigo.name=Cristal de Cueva Indigo
+tile.quark:crystal_violet.name=Cristal de Cueva Violeta
+tile.quark:crystal_black.name=Cristal de Cueva Negro
+
+tile.quark:crystal_white_pane.name=Hoja de Cristal de Cueva Blanco
+tile.quark:crystal_red_pane.name=Hoja de Cristal de Cueva Rojo
+tile.quark:crystal_orange_pane.name=Hoja de Cristal de Cueva Naranja
+tile.quark:crystal_yellow_pane.name=Hoja de Cristal de Cueva Amarillo
+tile.quark:crystal_green_pane.name=Hoja de Cristal de Cueva Verde
+tile.quark:crystal_blue_pane.name=Hoja de Cristal de Cueva Azul
+tile.quark:crystal_indigo_pane.name=Hoja de Cristal de Cueva Indigo
+tile.quark:crystal_violet_pane.name=Hoja de Cristal de Cueva Violeta
+tile.quark:crystal_black_pane.name=Hoja de Cristal de Cueva Negro
+
+tile.quark:stained_planks_black.name=Madera Tintada de Negro
+tile.quark:stained_planks_blue.name=Madera Tintada de Azul
+tile.quark:stained_planks_brown.name=Madera Tintada de Marrón
+tile.quark:stained_planks_cyan.name=Madera Tintada de Cian
+tile.quark:stained_planks_gray.name=Madera Tintada de Gris
+tile.quark:stained_planks_green.name=Madera Tintada de Verde
+tile.quark:stained_planks_light_blue.name=Madera Tintada de Celeste
+tile.quark:stained_planks_lime.name=Madera Tintada de Lima
+tile.quark:stained_planks_magenta.name=Madera Tintada de Magenta
+tile.quark:stained_planks_orange.name=Madera Tintada de Naranja
+tile.quark:stained_planks_pink.name=Madera Tintada de Rosa
+tile.quark:stained_planks_purple.name=Madera Tintada de Morado
+tile.quark:stained_planks_red.name=Madera Tintada de Rojo
+tile.quark:stained_planks_silver.name=Madera Tintada de Gris Claro
+tile.quark:stained_planks_white.name=Madera Tintada de Blanco
+tile.quark:stained_planks_yellow.name=Madera Tintada de Amarillo
+
+tile.quark:stained_planks_black_stairs.name=Escaleras de Madera Tintadas de Negro
+tile.quark:stained_planks_blue_stairs.name=Escaleras de Madera Tintadas de Azul
+tile.quark:stained_planks_brown_stairs.name=Escaleras de Madera Tintadas de Marrón
+tile.quark:stained_planks_cyan_stairs.name=Escaleras de Madera Tintadas de Cian
+tile.quark:stained_planks_gray_stairs.name=Escaleras de Madera Tintadas de Gris
+tile.quark:stained_planks_green_stairs.name=Escaleras de Madera Tintadas de Verde
+tile.quark:stained_planks_light_blue_stairs.name=Escaleras de Madera Tintadas de Celeste
+tile.quark:stained_planks_lime_stairs.name=Escaleras de Madera Tintadas de Lima
+tile.quark:stained_planks_magenta_stairs.name=Escaleras de Madera Tintadas de Magenta
+tile.quark:stained_planks_orange_stairs.name=Escaleras de Madera Tintadas de Naranja
+tile.quark:stained_planks_pink_stairs.name=Escaleras de Madera Tintadas de Rosado
+tile.quark:stained_planks_purple_stairs.name=Escaleras de Madera Tintadas de Morado
+tile.quark:stained_planks_red_stairs.name=Escaleras de Madera Tintadas de Rojo
+tile.quark:stained_planks_silver_stairs.name=Escaleras de Madera Tintadas de Gris Claro
+tile.quark:stained_planks_white_stairs.name=Escaleras de Madera Tintadas de Blanco
+tile.quark:stained_planks_yellow_stairs.name=Escaleras de Madera Tintadas de Amarillo
+
+tile.quark:stained_planks_black_slab.name=Losa de Madera Tintada de Negro
+tile.quark:stained_planks_blue_slab.name=Losa de Madera Tintada de Azul
+tile.quark:stained_planks_brown_slab.name=Losa de Madera Tintada de Marrón
+tile.quark:stained_planks_cyan_slab.name=Losa de Madera Tintada de Cian
+tile.quark:stained_planks_gray_slab.name=Losa de Madera Tintada de Gris
+tile.quark:stained_planks_green_slab.name=Losa de Madera Tintada de Verde
+tile.quark:stained_planks_light_blue_slab.name=Losa de Madera Tintada de Celestelab
+tile.quark:stained_planks_lime_slab.name=Losa de Madera Tintada de Lima
+tile.quark:stained_planks_magenta_slab.name=Losa de Madera Tintada de Magenta
+tile.quark:stained_planks_orange_slab.name=Losa de Madera Tintada de Naranja
+tile.quark:stained_planks_pink_slab.name=Losa de Madera Tintada de Rosado
+tile.quark:stained_planks_purple_slab.name=Losa de Madera Tintada de Morado
+tile.quark:stained_planks_red_slab.name=Losa de Madera Tintada de Rojo
+tile.quark:stained_planks_silver_slab.name=Losa de Madera Tintada de Gris Claro
+tile.quark:stained_planks_white_slab.name=Losa de Madera Tintada de Blanco
+tile.quark:stained_planks_yellow_slab.name=Losa de Madera Tintada de Amarillo
+
+tile.quark:vertical_stained_planks_black.name=Madera Vertical Tintada de Negro
+tile.quark:vertical_stained_planks_blue.name=Madera Vertical Tintada de Azul
+tile.quark:vertical_stained_planks_brown.name=Madera Vertical Tintada de Marrón
+tile.quark:vertical_stained_planks_cyan.name=Madera Vertical Tintada de Cian
+tile.quark:vertical_stained_planks_gray.name=Madera Vertical Tintada de Gris
+tile.quark:vertical_stained_planks_green.name=Madera Vertical Tintada de Verde
+tile.quark:vertical_stained_planks_light_blue.name=Madera Vertical Tintada de Celeste
+tile.quark:vertical_stained_planks_lime.name=Madera Vertical Tintada de Lima
+tile.quark:vertical_stained_planks_magenta.name=Madera Vertical Tintada de Magenta
+tile.quark:vertical_stained_planks_orange.name=Madera Vertical Tintada de Naranja
+tile.quark:vertical_stained_planks_pink.name=Madera Vertical Tintada de Rosa
+tile.quark:vertical_stained_planks_purple.name=Madera Vertical Tintada de Morado
+tile.quark:vertical_stained_planks_red.name=Madera Vertical Tintada de Rojo
+tile.quark:vertical_stained_planks_silver.name=Madera Vertical Tintada de Gris Claro
+tile.quark:vertical_stained_planks_white.name=Madera Vertical Tintada de Blanco
+tile.quark:vertical_stained_planks_yellow.name=Madera Vertical Tintada de Amarillost
+
+tile.quark:polished_netherrack.name=Netherwrought
+tile.quark:polished_netherrack_bricks.name=Ladrillos de Netherwrought
+tile.quark:polished_netherrack_bricks_slab.name=Losa de Ladrillos de Netherwrought
+tile.quark:polished_netherrack_bricks_stairs.name=Escaleras de Ladrillos de Netherwrought
+tile.quark:polished_netherrack_bricks_wall.name=Muro de Ladrilos de Netherwrought
+
+tile.quark:duskbound_block.name=Bloque Anochecer
+tile.quark:duskbound_block_slab.name=Losa de Bloque Anochercer
+tile.quark:duskbound_block_stairs.name=Escaleras de Bloque Anochecer
+tile.quark:duskbound_block_wall.name=Muro de Bloque Anochecer
+tile.quark:duskbound_lantern.name=Linterna Anochecer
+
+tile.quark:sturdy_stone.name=Piedra Robusta
+tile.quark:fire_stone.name=Azufre
+tile.quark:icy_stone.name=Permafrost
+tile.quark:cobbed_stone.name=Cobbedstone
+tile.quark:fire_stone_brick.name=Ladrillos de Azufre
+tile.quark:icy_stone_brick.name=Ladrillos de Permafrost
+tile.quark:glowcelium.name=Glowcelium
+tile.quark:glowshroom.name=Champiñón Brilloso
+tile.quark:fire_stone_slab.name=Losa de Azufre
+tile.quark:icy_stone_slab.name=Losa de Permafrost
+tile.quark:cobbed_stone_slab.name=Losa de Cobbedstone
+tile.quark:fire_stone_brick_slab.name=Losa de Ladrillos de Azufre
+tile.quark:icy_stone_brick_slab.name=Losa de Ladrillos de Permafrost
+tile.quark:fire_stone_stairs.name=Escaleras de Azufre
+tile.quark:icy_stone_stairs.name=Escaleras de Permafrost
+tile.quark:cobbed_stone_stairs.name=Escaleras de Cobbedstone
+tile.quark:fire_stone_brick_stairs.name=Escaleras de Ladrillos de Azufre
+tile.quark:icy_stone_brick_stairs.name=Escaleras de Ladrillos de Permafrost
+tile.quark:fire_stone_wall.name=Muro de Azufre
+tile.quark:icy_stone_wall.name=Muro de Permafrost
+tile.quark:cobbed_stone_wall.name=Muro de Cobbedstone
+tile.quark:fire_stone_brick_wall.name=Muro de Ladrillos de Azufre 
+tile.quark:icy_stone_brick_wall.name=Muro de Ladrillos de Permafrost
+
+tile.quark:iron_rod.name=Barra de Hierro
+tile.quark:wool_quilted_black.name=Lana Negra Acolchada
+tile.quark:wool_quilted_blue.name=Lana Azul Acolchada
+tile.quark:wool_quilted_brown.name=Lana Marrón Acolchada
+tile.quark:wool_quilted_cyan.name=Lana Cian Acolchada
+tile.quark:wool_quilted_gray.name=Lana Gris Acolchada
+tile.quark:wool_quilted_green.name=Lana Verde Acolchada
+tile.quark:wool_quilted_light_blue.name=Lana Celeste Acolchada
+tile.quark:wool_quilted_lime.name=Lana Lima Acolchada
+tile.quark:wool_quilted_magenta.name=Lana Magenta Acolchada
+tile.quark:wool_quilted_orange.name=Lana Naranja Acolchada
+tile.quark:wool_quilted_pink.name=Lana Rosa Acolchada
+tile.quark:wool_quilted_purple.name=Lana Morada Acolchada
+tile.quark:wool_quilted_red.name=Lana Roja Acolchada
+tile.quark:wool_quilted_silver.name=Lana Gris Claro Acolchada
+tile.quark:wool_quilted_white.name=Lana Blanca Acolchada
+tile.quark:wool_quilted_yellow.name=Lana Amarilla Acolchada
+
+tile.quark:colored_flowerpot_black.name=Maceta Negra
+tile.quark:colored_flowerpot_blue.name=Maceta Azul
+tile.quark:colored_flowerpot_brown.name=Maceta Negra
+tile.quark:colored_flowerpot_cyan.name=Maceta Cian
+tile.quark:colored_flowerpot_gray.name=Maceta Gris
+tile.quark:colored_flowerpot_green.name=Maceta Verde
+tile.quark:colored_flowerpot_light_blue.name=Maceta Celeste
+tile.quark:colored_flowerpot_lime.name=Maceta Lima
+tile.quark:colored_flowerpot_magenta.name=Maceta Magenta
+tile.quark:colored_flowerpot_orange.name=Maceta Naranja
+tile.quark:colored_flowerpot_pink.name=Maceta Rosa
+tile.quark:colored_flowerpot_purple.name=Maceta Morada
+tile.quark:colored_flowerpot_silver.name=Maceta Gris Claro
+tile.quark:colored_flowerpot_white.name=Maceta Blanca
+tile.quark:colored_flowerpot_yellow.name=Maceta Amarilla
+tile.quark:colored_flowerpot_red.name=Maceta Roja
+
+tile.quark:bark_oak_stairs.name=Escaleras de Corteza de Roble
+tile.quark:bark_spruce_stairs.name=Escaleras de Corteza de Abeto
+tile.quark:bark_birch_stairs.name=Escaleras de Corteza de Abedul
+tile.quark:bark_jungle_stairs.name=Escaleras de Corteza de Jungla
+tile.quark:bark_acacia_stairs.name=Escaleras de Corteza de Acacia
+tile.quark:bark_dark_oak_stairs.name=Escaleras de Corteza de Roble Oscuro
+tile.quark:bark_oak_slab.name=Losa de Corteza de Roble
+tile.quark:bark_spruce_slab.name=Losa de Corteza de Abeto
+tile.quark:bark_birch_slab.name=Losa de Corteza de Abedul
+tile.quark:bark_jungle_slab.name=Losa de Corteza de Jungla
+tile.quark:bark_acacia_slab.name=Losa de Corteza de Acacia
+tile.quark:bark_dark_oak_slab.name=Losa de Corteza de Roble Oscuro
+
+tile.quark:black_ash.name=Polvo de Wither
+tile.quark:glowstone_dust_block.name=Polvo de Piedra Luminosa
+tile.quark:gunpowder_block.name=Pólvora
+tile.quark:smoker.name=Fumador del Nether
+
+tile.quark:candle_black.name=Vela Negra
+tile.quark:candle_blue.name=Vela Azul
+tile.quark:candle_brown.name=Vela Marrón
+tile.quark:candle_cyan.name=Vela Cian
+tile.quark:candle_gray.name=Vela Gris
+tile.quark:candle_green.name=Vela Verde
+tile.quark:candle_light_blue.name=Vela Celeste
+tile.quark:candle_lime.name=Vela Lima
+tile.quark:candle_magenta.name=Vela Magenta
+tile.quark:candle_orange.name=Vela Naranja
+tile.quark:candle_pink.name=Vela Rosa
+tile.quark:candle_purple.name=Vela Morada
+tile.quark:candle_silver.name=Vela Gris Claro
+tile.quark:candle_white.name=Vela Blanca
+tile.quark:candle_yellow.name=Vela Amarilla
+tile.quark:candle_red.name=Vela Roja
+
+tile.quark:magma_bricks.name=Ladrillos de Magma
+tile.quark:magma_bricks_stairs.name=Escaleras de Ladrillos de Magma
+tile.quark:magma_bricks_slab.name=Losa de Ladrillos de Magma
+
+tile.quark:chute.name=Tirador
+tile.quark:stone_speleothem.name=Espeleotema de Piedra
+tile.quark:granite_speleothem.name=Espeleotema de Granito
+tile.quark:diorite_speleothem.name=Espeleotema de Diorita
+tile.quark:andesite_speleothem.name=Espeleotema de Andesita
+tile.quark:basalt_speleothem.name=Espeleotema de Basalto
+tile.quark:marble_speleothem.name=Espeleotema de Mármol
+tile.quark:limestone_speleothem.name=Espeleotema de Caliza
+tile.quark:jasper_speleothem.name=Espeleotema de Jaspe
+tile.quark:slate_speleothem.name=Espeleotema de Pizarra
+tile.quark:netherrack_speleothem.name=Espeleotema de Netherrack
+
+tile.quark:spruce_pressure_plate.name=Placa de Presión de Abeto
+tile.quark:birch_pressure_plate.name=Placa de Presión de Abedul
+tile.quark:jungle_pressure_plate.name=Placa de Presión de Jungla
+tile.quark:acacia_pressure_plate.name=Placa de Presión de Acacia
+tile.quark:dark_oak_pressure_plate.name=Placa de Presión de Roble Oscuro
+tile.oak_pressure_plate.name=Placa de Presión de Roble
+
+tile.quark:spruce_button.name=Botón de Abeto
+tile.quark:birch_button.name=Botón de Abedul
+tile.quark:jungle_button.name=Botón de Jungla
+tile.quark:acacia_button.name=Botón de Acacia
+tile.quark:dark_oak_button.name=Botón de Roble Oscuro
+tile.oak_button.name=Botón de Roble
+tile.quark:iron_button.name=Botón de Hierro
+tile.quark:gold_button.name=Botón de Oro
+
+tile.quark:sugar_block.name=Bloque de Azúcar
+tile.quark:redstone_randomizer.name=Aleatorizador de Redstone
+
+tile.quark:stone_diorite_pavement.name=Pavimento de Diorita
+tile.quark:stone_granite_pavement.name=Pavimento de Granito
+tile.quark:stone_andesite_pavement.name=Pavimento de Andesita
+tile.quark:stone_basalt_pavement.name=Pavimento de Basalto
+tile.quark:stone_marble_pavement.name=Pavimento de Mármol
+tile.quark:stone_limestone_pavement.name=Pavimento de Caliza
+tile.quark:stone_jasper_pavement.name=Pavimento de Jaspe
+tile.quark:stone_slate_pavement.name=Pavimento de Pizarra
+
+tile.quark:framed_glass.name=Vidrio Enmarcado
+tile.quark:framed_glass_pane.name=Panel de Vidrio Enmarcado
+tile.quark:paper_lantern.name=Lámpara de Papel
+tile.quark:paper_lantern_sakura.name=Lámpara de Papel Decorada
+tile.quark:pipe.name=Conducto de Items
+tile.quark:turf.name=Bloque de Grass
+tile.quark:turf_stairs.name=Escaleras de Grass
+tile.quark:turf_slab.name=Losa de Grass
+
+tile.quark:glowshroom_block.name=Brillanteñón
+tile.quark:roots.name=Raíz de Cueva
+tile.quark:roots_blue_flower.name=Raíz de Cueva
+tile.quark:roots_black_flower.name=Raíz de Cueva
+tile.quark:roots_white_flower.name=Raíz de Cueva
+
+tile.quark:elder_prismarine.name=Prismarina Anciana
+tile.quark:elder_prismarine_bricks.name=Ladrillos de Prismarina Anciana
+tile.quark:elder_prismarine_dark.name=Prismarina Anciana Oscura
+tile.quark:elder_sea_lantern.name=Linterna del Mar Anciana
+tile.quark:elder_prismarine_stairs.name=Escaleras de Prismarina Anciana
+tile.quark:elder_prismarine_bricks_stairs.name=Escaleras de Ladrillos de Prismarina Anciana
+tile.quark:elder_prismarine_dark_stairs.name=Escaleras de Prismarina Anciana Oscura
+tile.quark:elder_prismarine_slab.name=Losa de Prismarina Anciana
+tile.quark:elder_prismarine_bricks_slab.name=Losa de Ladrillos de Prismarina Anciana
+tile.quark:elder_prismarine_dark_slab.name=Losa de Prismarina Anciana Oscura
+tile.quark:elder_prismarine_wall.name=Muro de Prismarina Anciana
+tile.quark:elder_prismarine_bricks_wall.name=Muro de Ladrillos de Prismarina Anciana
+tile.quark:elder_prismarine_dark_wall.name=Muro de Prismarina Anciana Oscura
+
+tile.quark:monster_box.name=Caja de Mounstros
+tile.quark:frame.name=Marco
+tile.quark:frame_slab.name=Frame Slab
+tile.quark:tiny_potato.name=Papa pequeña
+tile.quark:tiny_potato.angry.name=Papa Enojada
+tile.quark:gravisand.name=Graviarena
+
+tile.quark:cobblestone_mossy_stairs.name=Escaleras de Piedra musgosa
+tile.quark:cobblestone_mossy_slab.name=Losa de Piedra musgosa
+tile.quark:stonebrick_mossy_stairs.name=Escaleras de Ladrillos de Piedra musgosa
+tile.quark:stonebrick_mossy_slab.name=Losa de Ladrillos de Piedra musgosa
+tile.quark:stonebrick_mossy_wall.name=Muro de Ladrillos de Piedra musgosa
+
+tile.quark:redstone_inductor.name=Inductor de Redstone
+tile.quark:swamp_leaves.name=Hojas de Roble de Pantano
+tile.quark:sakura_leaves.name=Hojas de Sakura
+tile.quark:swamp_sapling.name=Brote de Roble de Pantano
+tile.quark:sakura_sapling.name=Brote de Sakura
+
+tile.quark:rope.name=Cuerda para Escalar
+tile.quark:blaze_rod.name=Bloque de Vara de Blaze
+tile.quark:grate.name=Reja de Hierro
+
+tile.green_slime_block.name=Bloque Verde de Slime
+tile.quark:slime_red.name=Bloque Rojo de Slime
+tile.quark:slime_blue.name=Bloque Azul de Slime
+tile.quark:slime_cyan.name=Bloque Cian de Slime
+tile.quark:slime_magenta.name=Bloque Magenta de Slime
+tile.quark:slime_yellow.name=Bloque Amarillo de Slime
+
+# ITEM NAMES
+item.quark:glass_shard.name=Fragmento de Cristal
+item.quark:glass_shard_black.name=Fragmento de Cristal Tintado de Negro
+item.quark:glass_shard_blue.name=Fragmento de Cristal Tintado de Azul
+item.quark:glass_shard_brown.name=Fragmento de Cristal Tintado de Marron
+item.quark:glass_shard_cyan.name=Fragmento de Cristal Tintado de Cian
+item.quark:glass_shard_gray.name=Fragmento de Cristal Tintado de Gris
+item.quark:glass_shard_green.name=Fragmento de Cristal Tintado de Verde
+item.quark:glass_shard_light_blue.name=Fragmento de Cristal Tintado de Azul Claro
+item.quark:glass_shard_lime.name=Fragmento de Cristal Tintado de Lima
+item.quark:glass_shard_magenta.name=Fragmento de Cristal Tintado de Magenta
+item.quark:glass_shard_orange.name=Fragmento de Cristal Tintado de Naranja
+item.quark:glass_shard_pink.name=Fragmento de Cristal Tintado de Rosa
+item.quark:glass_shard_purple.name=Fragmento de Cristal Tintado de Morado
+item.quark:glass_shard_red.name=Fragmento de Cristal Tintado de Rojo
+item.quark:glass_shard_silver.name=Fragmento de Cristal Tintado de Gris Claro
+item.quark:glass_shard_white.name=Fragmento de Cristal Tintado de Blanco
+item.quark:glass_shard_yellow.name=Fragmento de Cristal Tintado de Amarillo
+
+item.quark:biotite.name=Biotita del End
+item.quark:ancient_tome.name=Tomo Antiguo
+item.quark:witch_hat.name=Sombrero de Bruja
+item.quark:slime_bucket_normal.name=Slime en un Cubo
+item.quark:slime_bucket_excited.name=Slime en un Cubo
+item.quark:slime_bucket_named.name=%s en un Cubo
+
+item.quark:rune_black.name=Runa Negra
+item.quark:rune_blue.name=Runa Azul
+item.quark:rune_brown.name=Runa Marrón
+item.quark:rune_cyan.name=Runa Cian
+item.quark:rune_gray.name=Runa Gris
+item.quark:rune_green.name=Runa Verde
+item.quark:rune_light_blue.name=Runa Azul Clara
+item.quark:rune_lime.name=Runa Lima
+item.quark:rune_magenta.name=Runa Magenta
+item.quark:rune_orange.name=Runa Naranja
+item.quark:rune_pink.name=Runa Rosa
+item.quark:rune_purple.name=Runa Morada
+item.quark:rune_red.name=Runa Roja
+item.quark:rune_silver.name=Runa Gris Clara
+item.quark:rune_white.name=Runa Blanca
+item.quark:rune_yellow.name=Runa Amarilla
+item.quark:rune_rainbow.name=Runa Arcoíris
+
+item.quark:colored_item_frame_black.name=Marco Negro
+item.quark:colored_item_frame_blue.name=Marco Azul
+item.quark:colored_item_frame_brown.name=Marco Marrón
+item.quark:colored_item_frame_cyan.name=Marco Cian
+item.quark:colored_item_frame_gray.name=Marco Gris
+item.quark:colored_item_frame_green.name=Marco Verde
+item.quark:colored_item_frame_light_blue.name=Marco Azul Claro
+item.quark:colored_item_frame_lime.name=Marco Lima
+item.quark:colored_item_frame_magenta.name=Marco Magenta
+item.quark:colored_item_frame_orange.name=Marco Naranja
+item.quark:colored_item_frame_pink.name=Marco Rosa
+item.quark:colored_item_frame_purple.name=Marco Morado
+item.quark:colored_item_frame_red.name=Marco Rojo
+item.quark:colored_item_frame_silver.name=Marco Gris Claro
+item.quark:colored_item_frame_white.name=Marco Blanco
+item.quark:colored_item_frame_yellow.name=Marco Amarillo
+
+item.quark:pirate_hat.name=Sombrero Pirata
+item.quark:soul_bead.name=Alma de Talon
+
+item.red_bed.name=Cama Roja
+item.quark:colored_bed_item_black.name=Cama Negra
+item.quark:colored_bed_item_blue.name=Cama Azul
+item.quark:colored_bed_item_brown.name=Cama Marrón
+item.quark:colored_bed_item_cyan.name=Cama Cian
+item.quark:colored_bed_item_gray.name=Cama Gris
+item.quark:colored_bed_item_green.name=Cama Verde
+item.quark:colored_bed_item_light_blue.name=Cama Azul Claro
+item.quark:colored_bed_item_lime.name=Cama Lima
+item.quark:colored_bed_item_magenta.name=Cama Magenta
+item.quark:colored_bed_item_orange.name=Cama Naranja
+item.quark:colored_bed_item_pink.name=Cama Rosa
+item.quark:colored_bed_item_purple.name=Cama Morada
+item.quark:colored_bed_item_silver.name=Cama Gris Claro
+item.quark:colored_bed_item_white.name=Cama Blanca
+item.quark:colored_bed_item_yellow.name=Cama Amarilla
+
+item.quark:arrow_ender.name=Flecha del End
+item.quark:arrow_explosive.name=Flecha Explosiva
+item.quark:arrow_torch.name=Flecha con Antorcha
+
+item.quark:soul_powder.name=Polvo de Alma
+item.quark:glass_item_frame.name=Marco de Vidrio
+item.quark:enderdragon_scale.name=Escama de Dragón
+item.quark:trowel.name=Paleta
+item.quark:tallow.name=Sebo
+
+item.quark:red_parrot_egg.name=Huevo de Loro Rojo
+item.quark:blue_parrot_egg.name=Huevo de Loro Blue
+item.quark:cyan_parrot_egg.name=Huevo de Loro Cian
+item.quark:green_parrot_egg.name=Huevo de Loro Verde
+item.quark:gray_parrot_egg.name=Huevo de Loro Gris
+
+item.quark:backpack.name=Mochila
+item.quark:soul_compass.name=Brújula de Alma
+
+item.quark:root.name=Raíz de Cueva
+item.quark:root_blue_flower.name=Brote Azul
+item.quark:root_black_flower.name=Brote Negro
+item.quark:root_white_flower.name=Brote Blanco
+item.quark:dye_blue.name=Tinte Blanco
+item.quark:dye_black.name=Tinte Negro
+item.quark:dye_white.name=Tinte Blanco
+
+item.quark:archaeologist_hat.name=Gorra de Arqueólogo
+item.quark:diamond_heart.name=Corazón de Diamante
+item.quark:pickarang.name=Picarang
+
+item.quark:frog_leg.name=Pierna de Rana
+item.quark:frog_maybe_leg.name="Pierna" de Rana
+item.quark:cooked_frog_leg.name=Pierna de Rana Cocinada
+item.quark:golden_frog_leg.name=Pierna de Rana Dorada
+item.quark:horse_whistle.name=Silbato de Caballo
+item.quark:crab_leg.name=Pierna de Cangrejo
+item.quark:cooked_crab_leg.name=Pierna de Cangrejo Cocinada
+
+item.quark:crab_shell.name=Fragmento de Concha de Cangrejo
+item.quark:chain.name=Cadena de Hierro
+
+# ENTITY NAMES
+entity.quark:colored_item_frame.name=Marco Tintado
+entity.quark:glass_item_frame.name=Marco de Vidrio
+entity.quark:flat_item_frame.name=Marco Plano
+entity.quark:dweller.name=Morador
+entity.quark:ashen.name=Pálido
+entity.quark:pirate.name=Pirata
+entity.quark:wraith.name=Fantasma
+entity.quark:chest_passenger.name=Bote Cofre
+entity.quark:totem_of_holding.name=Tótem de Posesión
+entity.quark:archaeologist.name=Arqueólogo
+entity.quark:stoneling.name=Stoneling
+entity.quark:frog.name=Rana
+entity.quark:pickarang.name=Picarang
+entity.quark:foxhound.name=Raposero
+entity.quark:crab.name=Cangrejo
+
+# POTION NAMES
+quark.potion.curse.name=Maldición
+quark.potion.danger_sight.name=Visión Precavida
+quark.potion.blue.name=Arándano
+quark.potion.white.name=Blanqueo
+quark.potion.black.name=Oscurecimiento
+quark.potion.resilience.name=Resiliencia
+
+potion.effect.haste=Poción de Prisa
+splash_potion.effect.haste=Poción arrojadiza de Prisa
+lingering_potion.effect.haste=Poción persistente de Prisa
+tipped_arrow.effect.haste=Flecha de Prisa
+potion.effect.mining_fatigue=Poción de Fatiga Minera
+splash_potion.effect.mining_fatigue=Poción arrojadiza de Fatiga Minera
+lingering_potion.effect.mining_fatigue=Poción persistente de Fatiga Minera
+tipped_arrow.effect.mining_fatigue=Flecha de Fatiga Minera
+potion.effect.resistance=Poción de Resistencia
+splash_potion.effect.resistance=Poción arrojadiza de Resistencia
+lingering_potion.effect.resistance=Poción persistente de Resistencia
+tipped_arrow.effect.resistance=Flecha de Resistencia
+potion.effect.danger_sight=Poción de Visión Precavida
+splash_potion.effect.danger_sight=Poción arrojadiza de Visión Precavida
+lingering_potion.effect.danger_sight=Poción persistente de Visión Precavida
+tipped_arrow.effect.danger_sight=Flechade Visión Precavida
+potion.effect.resilience=Poción de Estabilidad
+splash_potion.effect.resilience=Poción arrojadiza de Estabilidad
+lingering_potion.effect.resilience=Poción persistente de Estabilidad
+
+tipped_arrow.effect.resilience=Flecha de Estabilidad
+
+# KEYBINDS
+quark.gui.keygroupMisc=Quark - Miscelánea
+quark.gui.keygroupInv=Quark - Inventario
+quark.gui.keygroupEmote=Quark - Emoticones
+quark.keybind.lockBuilding=Bloqueo de Rotación
+quark.keybind.toggleAutojump=Alternar Salto Automático
+quark.keybind.changeHotbar=Cambiar Hotbar
+quark.keybind.dropoff=Depositar
+quark.keybind.playerSort=Ordenar Jugador
+quark.keybind.chestSort=Ordenar Contenedor
+quark.keybind.chestDropoff=Depositar en cofre
+quark.keybind.chestMerge=Fusionar
+quark.keybind.chestRestock=Reprovisionar
+quark.keybind.chestExtract=Extraer
+
+# GUI STUFF
+quark.gui.emotes=Emoticones
+quark.gui.favorited=Favorito
+quark.emote.wave=Onda
+quark.emote.yes=Si
+quark.emote.no=No
+quark.emote.cheer=Animar
+quark.emote.clap=Aplaudir
+quark.emote.salute=Saludar
+quark.emote.facepalm=Facepalm
+quark.emote.shrug=No Lo Se
+quark.emote.point=Apuntar
+quark.emote.headbang=Headbang
+
+quark.emote.think=Pensando
+quark.emote.weep=Weep
+quark.emote.dab=Dab
+quark.emote.tpose=T-Pose
+quark.emote.dance=Baile
+quark.emote.zombie=Zombie
+quark.emote.exorcist=Exorcista
+quark.emote.jet=Jet
+
+quark.dyedElytra=Tintada de %s
+quark.dye.white=Blanco
+quark.dye.orange=Naranja
+quark.dye.magenta=Magenta
+quark.dye.lightBlue=Azul Claro
+quark.dye.yellow=Amarillo
+quark.dye.lime=Lima
+quark.dye.pink=Rosa
+quark.dye.gray=Gris
+quark.dye.silver=Gris Claro
+quark.dye.cyan=Cian
+quark.dye.purple=Morado
+quark.dye.blue=Azul
+quark.dye.brown=Marrón
+quark.dye.green=Verde
+quark.dye.red=Rojo
+quark.dye.black=Negro
+
+generator.quark_realistic=Realístico
+generator.quark_realistic.info=[Quark] Generacion de Mundo RealisticO por /u/Soniop
+
+quark.biomeMap.ice_flats=Mapa Explorador de Tundra Nevada
+quark.biomeMap.extreme_hills=Mapa Explorador de Extreme Hills
+quark.biomeMap.roofed_forest=Mapa Explorador de Roofed Forest
+quark.biomeMap.desert=Mapa Explorador de Desierto
+quark.biomeMap.savanna=Mapa Explorador de Savana
+quark.biomeMap.swampland=Mapa Explorador de Pantano
+quark.biomeMap.redwood_taiga=Mapa Explorador de Mega Taiga
+quark.biomeMap.mutated_forest=Mapa Explorador de Bosque de Flores
+quark.biomeMap.jungle=Mapa Explorador de Jungla
+quark.biomeMap.mesa=Mapa Explorador de Mesa
+quark.biomeMap.mushroom_island=Mapa Explorador de Isla Champiñón
+quark.biomeMap.mutated_ice_flats=Mapa Explorador de Ice Spikes
+
+# BANNER NAMES
+item.banner.quark_dragon.black=Dragon Negro
+item.banner.quark_dragon.red=Dragon Rojo
+item.banner.quark_dragon.green=Dragon Verde
+item.banner.quark_dragon.brown=Dragon Marrón
+item.banner.quark_dragon.blue=Dragon Azul
+item.banner.quark_dragon.purple=Dragon Morado
+item.banner.quark_dragon.cyan=Dragon Cian
+item.banner.quark_dragon.silver=Dragon Gris Claro
+item.banner.quark_dragon.gray=Dragon Gris
+item.banner.quark_dragon.pink=Dragon Rojo
+item.banner.quark_dragon.lime=Dragon Lima
+item.banner.quark_dragon.yellow=Dragon Amarillo
+item.banner.quark_dragon.lightBlue=Dragon Azul Claro
+item.banner.quark_dragon.magenta=Dragon Magenta
+item.banner.quark_dragon.orange=Dragon Naranja
+item.banner.quark_dragon.white=Dragon Blanco
+
+item.banner.quark_eye.black=Ojo Negro
+item.banner.quark_eye.red=Ojo Rojo
+item.banner.quark_eye.green=Ojo Verde
+item.banner.quark_eye.brown=Ojo Marrón
+item.banner.quark_eye.blue=Ojo Azul
+item.banner.quark_eye.purple=Ojo Morado
+item.banner.quark_eye.cyan=Ojo Cian
+item.banner.quark_eye.silver=Ojo Gris Claro
+item.banner.quark_eye.gray=Ojo Gris
+item.banner.quark_eye.pink=Ojo Rosa
+item.banner.quark_eye.lime=Ojo Lima
+item.banner.quark_eye.yellow=Ojo Amarillo
+item.banner.quark_eye.lightBlue=Ojo Azul Claro
+item.banner.quark_eye.magenta=Ojo Magenta
+item.banner.quark_eye.orange=Ojo Naranja
+item.banner.quark_eye.white=Ojo Blanco
+
+item.banner.quark_sword.black=Espada Negra
+item.banner.quark_sword.red=Espada Roja
+item.banner.quark_sword.green=Espada Verde
+item.banner.quark_sword.brown=Espada Marrón
+item.banner.quark_sword.blue=Espada Azul
+item.banner.quark_sword.purple=Espada Morada
+item.banner.quark_sword.cyan=Espada Cian
+item.banner.quark_sword.silver=Espada Gris Claro
+item.banner.quark_sword.gray=Espada Gris
+item.banner.quark_sword.pink=Espada Rosa
+item.banner.quark_sword.lime=Espada Lima
+item.banner.quark_sword.yellow=Espada Amarilla
+item.banner.quark_sword.lightBlue=Espada Azul Claro
+item.banner.quark_sword.magenta=Espada Magenta
+item.banner.quark_sword.orange=Espada Naranja
+item.banner.quark_sword.white=Espada Blanca
+
+item.banner.quark_shield.black=Escudo Negro
+item.banner.quark_shield.red=Escudo Rojo
+item.banner.quark_shield.green=Escudo Verde
+item.banner.quark_shield.brown=Escudo Marrón
+item.banner.quark_shield.blue=Escudo Azul
+item.banner.quark_shield.purple=Escudo Morado
+item.banner.quark_shield.cyan=Escudo Cian
+item.banner.quark_shield.silver=Escudo Gris Claro
+item.banner.quark_shield.gray=Escudo Gris
+item.banner.quark_shield.pink=Escudo Rosa
+item.banner.quark_shield.lime=Escudo Lima
+item.banner.quark_shield.yellow=Escudo Amarillo
+item.banner.quark_shield.lightBlue=Escudo Azul Claro
+item.banner.quark_shield.magenta=Escudo Magenta
+item.banner.quark_shield.orange=Escudo Naranja
+item.banner.quark_shield.white=Escudo Blanco
+
+item.banner.quark_tiny_potato.black=Papa Pequeña Negra
+item.banner.quark_tiny_potato.red=Papa Pequeña Roja
+item.banner.quark_tiny_potato.green=Papa Pequeña Verde
+item.banner.quark_tiny_potato.brown=Papa Pequeña Marrón
+item.banner.quark_tiny_potato.blue=Papa Pequeña Azul
+item.banner.quark_tiny_potato.purple=Papa Pequeña Morada
+item.banner.quark_tiny_potato.cyan=Papa Pequeña Cian
+item.banner.quark_tiny_potato.silver=Papa Pequeña Gris Claro
+item.banner.quark_tiny_potato.gray=Papa Pequeña Gris
+item.banner.quark_tiny_potato.pink=Papa Pequeña Rosa
+item.banner.quark_tiny_potato.lime=Papa Pequeña Lima
+item.banner.quark_tiny_potato.yellow=Papa Pequeña Amarilla
+item.banner.quark_tiny_potato.lightBlue=Papa Pequeña Celeste
+item.banner.quark_tiny_potato.magenta=Papa Pequeña Magenta
+item.banner.quark_tiny_potato.orange=Papa Pequeña Naranja
+item.banner.quark_tiny_potato.white=Papa Pequeña Blanca
+

@@ -1,0 +1,123 @@
+
+//Creative Tabs
+itemGroup.travellersbackpack=Traveller's Backpack
+
+//Keybindings
+keys.travellersBackpack.category=Traveller's Backpack
+keys.travellersBackpack.inventory=Inventario de la mochila
+keys.travellersBackpack.toggle_tank=Alternar Tanque
+
+//Actions
+actions.unequip_backpack.nobackpack=No hay mochila para desequipar.
+actions.unequip_backpack.nospace=No se puede agregar la mochila al inventario, no hay espacio.
+actions.equip_backpack.otherbackpack=Ya tienes puesta otra mochila.
+actions.deploy_sleeping_bag=No se puede poner el saco de dormir! Revisa que la área esté vacía.
+actions.equip_backpack.fail=No se puede poner la mochila.
+
+//Gui
+gui.none.name=Ninguno
+gui.empty.name=Vacío
+
+//Tips
+backpack.obtain.bat=Mochila adquirible en Mineshafts y Dungeons
+backpack.obtain.iron_golem=Mochila adquirible en cofres en Aldeas
+backpack.obtain.electric=Solo puede adquirirse al llevar una Mochila de Diamante y ser golpeado por un rayo
+backpack.obtain.pigman=Solo puede adquirirse al llevar una Mochila de Cerdo y ser golpeado por un rayo
+backpack.obtain.deluxe=Mochila obtenible en Strongholds
+backpack.obtain.villager=Solo puede obtenerse al intercambiar con un Sacerdote o Librero
+
+//Items
+item.travellers_backpack.name=Mochila de Viaje
+item.backpack_tank.name=Tanque de Mochila
+item.hose_nozzle.name=Boquilla de Manegra
+item.hose.name=Mangera
+
+item.hose.suck=Modo Aspiración
+item.hose.spill=Modo Derrame
+item.hose.drink=Modo Bebible
+
+//Blocks
+tile.sleeping_bag_bottom.name=Saco de Dormir
+
+//Fluids
+fluid.milk=Leche
+fluid.potion=Poción
+
+//Backpacks
+backpack.standard.name=Estándar
+backpack.bat.name=Murciélago
+backpack.black.name=Negra
+backpack.blaze.name=Blaze
+backpack.blue.name=Azul
+backpack.bookshelf.name=Librería
+backpack.brown.name=Marrón
+backpack.brownmushroom.name=Hongo Marrón
+backpack.cactus.name=Cactus
+backpack.cake.name=Pastel
+backpack.carrot.name=Zanahoria
+backpack.chest.name=Cofre
+backpack.chicken.name=Pollo
+backpack.coal.name=Carbón
+backpack.cookie.name=Galleta
+backpack.cow.name=Vaca
+backpack.creeper.name=Creeper
+backpack.cyan.name=Cian
+backpack.deluxe.name=Deluxe
+backpack.diamond.name=Diamante
+backpack.dragon.name=Dragón
+backpack.egg.name=Huevo
+backpack.electric.name=Eléctrica
+backpack.emerald.name=Esmeralda
+backpack.end.name=End
+backpack.enderman.name=Enderman
+backpack.ghast.name=Ghast
+backpack.glowstone.name=Glowstone
+backpack.gold.name=Oro
+backpack.gray.name=Gris
+backpack.green.name=Verde
+backpack.haybale.name=Heno
+backpack.horse.name=Caballo
+backpack.iron.name=Hierro
+backpack.irongolem.name=Gólem de Hierro
+backpack.lapis.name=Lapis
+backpack.leather.name=Cuero
+backpack.lightblue.name=Celeste
+backpack.lightgray.name=Gris Claro
+backpack.lime.name=Lima
+backpack.magenta.name=Magenta
+backpack.magmacube.name=Cubo de Magma
+backpack.melon.name=Melón
+backpack.moddednetwork.name=Modded Network
+backpack.mooshroom.name=Champivaca
+backpack.nether.name=Nether
+backpack.obsidian.name=Obsidiana
+backpack.ocelot.name=Ocelote
+backpack.orange.name=Naranja
+backpack.overworld.name=Overworld
+backpack.pig.name=Cerdo
+backpack.pigman.name=Pigman
+backpack.pink.name=Rosa
+backpack.pumpkin.name=Calabaza
+backpack.purple.name=Morado
+backpack.quartz.name=Cuarzo
+backpack.rainbow.name=Arcoíris
+backpack.red.name=Rojo
+backpack.redmushroom.name=Hongo Rojo
+backpack.redstone.name=Redstone
+backpack.sandstone.name=Arenisca
+backpack.sheep.name=Oveja
+backpack.silverfish.name=Lepisma
+backpack.skeleton.name=Esqueleto
+backpack.slime.name=Slime
+backpack.snow.name=Nieve
+backpack.spider.name=Araña
+backpack.sponge.name=Esponja
+backpack.squid.name=Calamar
+backpack.sunflower.name=Girasol
+backpack.villager.name=Aldeano
+backpack.white.name=Blanco
+backpack.wither.name=Wither
+backpack.witherskeleton.name=Esqueleto Wither
+backpack.wolf.name=Lobo
+backpack.yellow.name=Amarillo
+backpack.zombie.name=Zombie

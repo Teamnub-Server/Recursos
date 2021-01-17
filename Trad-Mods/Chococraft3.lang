@@ -1,0 +1,98 @@
+itemGroup.chococraft=ChocoCraft 3
+
+tile.chococraft.gysahl_green.name=Gysahl Verde
+tile.chococraft.chocobo_egg.name=Huevo de Chocobo
+tile.chococraft.straw_nest.name=Nido de Chocobo
+
+entity.chocobo.name=Chocobo
+
+item.chococraft.gysahl_green.name=Gysahl Verde
+item.chococraft.gysahl_green_seeds.name=Semillas de Gysahl Verde
+item.chococraft.lovely_gysahl_green.name=Gysahl Verde Amoroso
+item.chococraft.pickled_gysahl_raw.name=Gysahl Verde Adobado Crudo
+item.chococraft.pickled_gysahl_cooked.name=Gysahl Verde Adobado Cocinado
+
+item.chococraft.chocopedia.name=Chocopedia
+item.chococraft.chocopedia.tooltip=Úsame en un Chocobo para ver sus stats.
+
+item.chococraft.chocobo_feather.name=Pluma de Chocobo
+item.chococraft.chocobo_whistle.name=Silbato de Chocobo
+
+item.chococraft.chocobo_saddle.none.name=Montura Chocobo
+item.chococraft.chocobo_saddle.saddle.name=Chocobo Saddle Bags
+item.chococraft.chocobo_saddle.saddle_bags.name=Paquete de Monturas Chocobo
+
+# No es necesario traducir estos items que solo se obtienen en creativo
+item.chococraft.chocobo_drumstick_raw.name=Pata de Chocobo Cruda
+item.chococraft.chocobo_drumstick_cooked.name=Pata de Chocobo Cocinada
+item.chococraft.chocobo_spawn_egg.yellow.name=Yellow Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.green.name=Green Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.blue.name=Blue Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.white.name=White Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.black.name=Black Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.gold.name=Golden Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.pink.name=Pink Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.red.name=Red Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.purple.name=Purple Chocobo Spawn Egg
+item.chococraft.chocobo_spawn_egg.flame.name=Flame Chocobo Spawn Egg
+
+item.chococraft.ability_fruit.spike_fruit.name=Fruta Espinosa
+item.chococraft.ability_fruit.spike_fruit.tooltip=Enseña a un Chocobo a correr.
+item.chococraft.ability_fruit.aeroshroom.name=Aero-hongo
+item.chococraft.ability_fruit.aeroshroom.tooltip=Enseña a un Chocobo a planear.
+item.chococraft.ability_fruit.aqua_berry.name=Aqua Baya
+item.chococraft.ability_fruit.aqua_berry.tooltip=Enseña a un Chocobo a nadar.
+item.chococraft.ability_fruit.dead_pepper.name=Pimentón Chocobo
+item.chococraft.ability_fruit.dead_pepper.tooltip=Enseña a un Chocobo a volar.
+
+item.chococraft.chocobo_egg.tooltip.invalid_egg=§cInvalid Egg
+item.chococraft.chocobo_egg.tooltip.mother_info=Mother: %s / %s / %s
+item.chococraft.chocobo_egg.tooltip.father_info=Father: %s / %s / %s
+
+chococraft.entity_chocobo.heal_fail=§cSalud Llena
+chococraft.entity_chocobo.tame_fail=§cDomado Fallado
+chococraft.entity_chocobo.tame_success=§aDomado Listo!
+chococraft.entity_chocobo.saddle_applied=Montura aplicada
+chococraft.entity_chocobo.chocobo_followcmd=Seguir
+chococraft.entity_chocobo.chocobo_wandercmd=Merodear
+chococraft.entity_chocobo.chocobo_staycmd=Quedarse
+
+# Relacionado con configuración interna, no es necesario traducir
+chococraft.general.world=World
+chococraft.general.world.gysahlgreenspawnweight=Gysahl Green Spawn Weight
+chococraft.general.gysahlgreenpatchsize=Gysahl Green Patch Size
+
+cmd.chococraft.chocobo.invalid_set_parameters=Invalid parameters
+cmd.chococraft.chocobo.successfuly_set_parameters=Set %s to %s
+
+cmd.chococraft.chocobo.get_level=Level: %s
+cmd.chococraft.chocobo.get_health=Vida: %s
+cmd.chococraft.chocobo.get_resistance=Resistencia: %s
+cmd.chococraft.chocobo.get_speed=Velocidad: %s
+cmd.chococraft.chocobo.get_stamina=Stamina: %s
+
+cmd.chococraft.chocobo.can_not_sprint=Puede correr: §cNo
+cmd.chococraft.chocobo.can_sprint=Puede correr: §aSi
+cmd.chococraft.chocobo.can_not_dive=Puede nadar: §cNo
+cmd.chococraft.chocobo.can_dive=Puede nadar: §aSi
+cmd.chococraft.chocobo.can_not_glide=Puede Planear: §cNo
+cmd.chococraft.chocobo.can_glide=Puede Planear: §aSi
+cmd.chococraft.chocobo.can_not_fly=Puede Volar: §cNo
+cmd.chococraft.chocobo.can_fly=Puede Volar: §aSi
+
+gui.chocoinfo.button.ability=Tienes %s de %s experiencia necesaria para %s.
+gui.chocoinfo.button.sprint=Desbloquear Correr
+gui.chocoinfo.button.glide=Desbloquear Planeado
+gui.chocoinfo.button.dive=Desbloquear Nado
+gui.chocoinfo.button.fly=Desbloquear Vuelo
+
+gui.choconest=Nido Chocobo
+
+gui.chocobook.title=Chocopedia
+gui.chocobook.page1=Los Chocobos son grandes aves parecidas a avestruz encontradas en los biomas de planicies y montañas. Su dieta consiste de casi solo Gysahl Verdes. Normalmente son de color amarillo y tienen dos largas piernas con patas de tres dedos, gigantes alas y un cuello largo.
+gui.chocobook.page2=Supongo que te estarás preguntado, cómo #### tengo mi Chocobo? Bueno, eso es fácil, para domar un Chocobo debes encontrar Gysahls Verdes para alimentarlos, los cuales aparecen por todo el mundo; Aún no te quiere? Dale más Gysahls, funcionará!
+gui.chocobook.page3=Entonces, como te montas? A veces los Chocobos tiran una pluma especial, combina esto con una montura normal para crear una Montura Chocobo, y dale Click Derecho al Chocobo para ponérselo. Tal vez luego podrás hacer uno mejor, uno con almacenamiento o algo.
+gui.chocobook.page4=Ahora tienes tu Chocobo. Genial! Pero puedes hacerlo mejor. Usando la Chocopedia en un Chocobo te permitirá desbloquear nuevas habilidades usando la experiencia que tienes, la cual será drenada de tu alma. Incluye Vuelo, Planeo, Correr y Nado.
+gui.chocobook.page5=Perfecto, desbloquee la habilidad, cómo la uso? Para volar necesitas correr para ganar momentum y luego saltar, Planeo es literalmente solo saltar despacio, para Correr es presionar el botón para Correr (IQ 10000) y para Nadar solo salta en el agua.
+gui.chocobook.page6=Tengo un Chocobo, pero quiero MÁS! Okay, necesitas a  dos Chocobo, el macho tiene plumas de colores (para diferenciar), haz que lo hagan (7w7) dándoles a ambos un Gysahl Amoroso, el cual es obtenido raramente al sacar gysahl; Pon el huevo en un nido y con suficiente tiempo y espacio, crecerá.
+gui.chocobook.page7=Ayuda, mis Chocobos dieron un Chocobo peor! Está bien, hay una chance de que el bebé sea peor en algunos aspectos, pero la mayoria de las veces tendrás un Chocobo más rápido, saludable y energético que la generación anterior. Solo sigue intentando!

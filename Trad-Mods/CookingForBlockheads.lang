@@ -1,0 +1,110 @@
+item.cookingforblockheads:recipe_book_tier0.name=Cocina para Cabeza-Cuadradas I
+item.cookingforblockheads:recipe_book_tier1.name=Cocina para Cabeza-Cuadradas I
+item.cookingforblockheads:recipe_book_tier2.name=Cocina para Cabeza-Cuadradas II
+item.cookingforblockheads:heating_unit.name=Calentador
+item.cookingforblockheads:ice_unit.name=Hielera
+item.cookingforblockheads:preservation_chamber.name=Cámara de Preservación
+
+tooltip.cookingforblockheads:recipe_book_tier0=Edición #SinFiltros
+tooltip.cookingforblockheads:recipe_book_tier0.description=Muestra todas las recetas de cocina.
+tooltip.cookingforblockheads:recipe_book_tier1=Libro de Recetas
+tooltip.cookingforblockheads:recipe_book_tier1.description=Muestra todo lo que puedes cocinar\ncon las cosas en tu inventario.
+tooltip.cookingforblockheads:recipe_book_tier2=Libro de Crafteo
+tooltip.cookingforblockheads:recipe_book_tier2.description=Puede craftear comida con lo\nque tienes en tu inventario.
+
+###
+
+tile.cookingforblockheads:cooking_table.name=Mesa para Cocinar
+tile.cookingforblockheads:oven.name=Horno
+tile.cookingforblockheads:fruit_basket.name=Canasta de Frutas
+tile.cookingforblockheads:fridge.name=Refrigerador
+tile.cookingforblockheads:sink.name=Lavabo
+tile.cookingforblockheads:tool_rack.name=Porta Herramientas
+tile.cookingforblockheads:milk_jar.name=Jarra de Leche
+tile.cookingforblockheads:cow_jar.name=Vaca en Jarra
+tile.cookingforblockheads:toaster.name=Tostadora
+tile.cookingforblockheads:spice_rack.name=Estante de Especias
+tile.cookingforblockheads:counter.name=Mesa de Cocina
+tile.cookingforblockheads:cabinet.name=Gabineta de Cocina
+tile.cookingforblockheads:corner.name=Esquina de Cocina
+tile.cookingforblockheads:kitchen_floor.name=Suelo de Cocina
+tile.cookingforblockheads:cutting_board.name=Tabla de Cortar
+
+tooltip.cookingforblockheads:multiblock_kitchen=Cocina Multi-Bloque
+tooltip.cookingforblockheads:dyeable=Teñible
+tooltip.cookingforblockheads:cooking_table.description=Permite craftear comida.
+tooltip.cookingforblockheads:oven.description=Permite cocinar comida.
+tooltip.cookingforblockheads:sink.description=Permite usar agua para la comida.
+tooltip.cookingforblockheads:fridge.description=Almacena ingredientes para cocinar.
+tooltip.cookingforblockheads:fruit_basket.description=Almacena frutas para cocinar.
+tooltip.cookingforblockheads:tool_rack.description=Permite usar Herramientas al cocinar.
+tooltip.cookingforblockheads:milk_jar.description=Permite usar Leche al cocinar.
+tooltip.cookingforblockheads:cow_jar.description=Produce Leche lentamente para las recetas.
+tooltip.cookingforblockheads:toaster.description=Mágicamente cambia Pan a Tostadas.
+tooltip.cookingforblockheads:spice_rack.description=Almacena especias e ingredientes.
+tooltip.cookingforblockheads:counter.description=Almacena ingredientes para recetas.
+tooltip.cookingforblockheads:cabinet.description=Puede ser puesta en la pared, sobre bloques de Cocina.
+tooltip.cookingforblockheads:corner.description=Sin uso en particular.
+tooltip.cookingforblockheads:kitchen_floor.description=Sin uso en particular.
+tooltip.cookingforblockheads:heating_unit.description=Permite alimentar un Horno usando energía.
+tooltip.cookingforblockheads:ice_unit.description=Permite usar Hielo y Nieve al cocinar.
+tooltip.cookingforblockheads:preservation_chamber.description=Previene que el último item de algo sea agotado.
+tooltip.cookingforblockheads:cutting_board.description=Permite usar la Tabla de Cortar en las recetas.
+tooltip.cookingforblockheads:requires_pams=Necesita Pam's Harvestcraft
+tooltip.cookingforblockheads:cutting_board_deprecated=Este item será reemplazado por su versión.\nEn Pam's Harvestcraft.
+tooltip.cookingforblockheads:can_be_placed_in_world=Puede ser puesto en el mundo.
+
+###
+
+gui.cookingforblockheads:no_ingredients=Sin\ningredientes\nnecesarios
+gui.cookingforblockheads:no_selection=Selecciona un item\nen la derecha para\nver su receta.
+
+tooltip.cookingforblockheads:click_to_see_recipe=Click para ver su receta
+tooltip.cookingforblockheads:click_to_craft_one=Click de nuevo para craftear
+tooltip.cookingforblockheads:click_to_smelt_one=Click de nuevo para cocinar
+tooltip.cookingforblockheads:click_to_craft_stack=Shift-Click para craftear un stack
+tooltip.cookingforblockheads:click_to_smelt_stack=Shift-Click para cocinar un stack
+tooltip.cookingforblockheads:missing_tools=Faltan herramientas para craftear
+tooltip.cookingforblockheads:missing_ingredients=Faltan ingredientes para craftear
+tooltip.cookingforblockheads:missing_oven=Falta horno para cocinar
+tooltip.cookingforblockheads:sort_by_name=Ordenar por nombre
+tooltip.cookingforblockheads:sort_by_hunger=Ordenar por hambre restaurada
+tooltip.cookingforblockheads:sort_by_saturation=Ordenar por Saturación
+tooltip.cookingforblockheads:click_to_lock=Click Derecho para bloquear item
+tooltip.cookingforblockheads:click_to_unlock=Click Derecho para desbloquear item
+tooltip.cookingforblockheads:scroll_to_switch=Desplázate para seleccionar item
+tooltip.cookingforblockheads:energy_stored=Energía Restaurada: %d/%d
+tooltip.cookingforblockheads:oven_upgrade=Mejora de Horno
+tooltip.cookingforblockheads:fridge_upgrade=Mejora de Refrigerador
+
+###
+
+container.cookingforblockheads:oven=Horno
+container.cookingforblockheads:fridge=Refrigerador
+container.cookingforblockheads:spice_rack=Estante de Especias
+container.cookingforblockheads:counter=Mesa de Cocina
+container.cookingforblockheads:cabinet=Gabineta de Cocina
+container.cookingforblockheads:fruit_basket=Canasta de Frutas
+
+itemGroup.cookingforblockheads=Cocina para Cabeza-Cuadradas
+
+###
+
+waila.cookingforblockheads:milk_stored=Leche Almacenada: %d/%d
+waila.cookingforblockheads:toast_progress=Tostando... (%s)
+waila.cookingforblockheads:heating_unit=Upgrade: Unidad Calentadora
+waila.cookingforblockheads:ice_unit=Upgrade: Unidad de Hielo
+waila.cookingforblockheads:preservation_chamber=Mejora: Cámara de Preservación
+
+###
+
+cookingforblockheads:subtitle.fridge_open=Refrigeradora se abre
+cookingforblockheads:subtitle.fridge_close=Refrigeradora se cierra
+cookingforblockheads:subtitle.oven_open=Horno se abre
+cookingforblockheads:subtitle.oven_close=Horno se cierra
+cookingforblockheads:subtitle.toaster_start=Tostadora comienza a tostar
+cookingforblockheads:subtitle.toaster_stop=Tostadora termina de tostar
+
+###
+
+jei.cookingforblockheads:cow_jar=Vaca en Jarra

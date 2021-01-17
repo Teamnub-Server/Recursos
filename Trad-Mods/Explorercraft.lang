@@ -1,0 +1,296 @@
+//=== Creative Mode Tab
+itemGroup.explorercraft=ExplorerCraft
+generator.ExplorerTest=Explorer-Testing
+
+//=== Items
+item.explorercraft.ruby.name=Rubí
+item.explorercraft.amethyst.name=Amatista
+item.explorercraft.jade.name=Jade
+item.explorercraft.builder.name=Structure Builder
+item.explorercraft.noctiluca.name=Noctiluca
+
+# Lo dejé en Wizard para diferenciarlo de los Magos de Wizardry, se puede cambiar a Mago si es que no está el mod instalado
+entity.wizard.name=Wizard
+entity.enderreeper.name=Enderreeper
+entity.enderghast.name=Enderghast
+//=== Advancements
+advancements.explorercraft.root.title=Explorercraft
+advancements.explorercraft.root.description=A comenzar la Aventura!
+
+advancements.explorercraft.exploring_time.title=Hora de Aventura!
+advancements.explorercraft.exploring_time.description=Descubre los biomas secretos!
+
+advancements.explorercraft.bamboo_forest.title=Bosque de Bamboo descubierto!
+advancements.explorercraft.bamboo_forest.description=Un gran mar de bamboo!
+advancements.explorercraft.forested_mountain.title=Montañas Arboladas descubiertas!
+advancements.explorercraft.forested_mountain.description=Una gran montaña por atravesar!
+advancements.explorercraft.snowdonia.title=Snowdonia descubierta!
+advancements.explorercraft.snowdonia.description=La tierra oculta!
+
+advancements.explorercraft.slate.title=Pizarra Descubierto!
+advancements.explorercraft.slate.description=Bienvenido al valle!
+advancements.explorercraft.welshcakes.title=Pastel Gales!
+advancements.explorercraft.welshcakes.description=Encuentra frutos secos!
+advancements.explorercraft.leek.title=Poro en las colinas!
+advancements.explorercraft.leek.description=Pueden curar una gripe?!
+advancements.explorercraft.cawl.title=Craftea Cawl!
+advancements.explorercraft.cawl.description=Crea un maravilloso caldo!
+advancements.explorercraft.welshrarebit.title=Craftea Welsh Rarebit!
+advancements.explorercraft.welshrarebit.description=Ooooh esa maravilla de queso!?
+
+advancements.explorercraft.dragon_heart.title=Corazon de Y Ddraig Goch!
+advancements.explorercraft.dragon_heart.description=Corazon Ardiente de Wales!
+advancements.explorercraft.welsh_shield.title=Escudo de Cmyru
+advancements.explorercraft.welsh_shield.description=Orgullo de Wales!
+
+//====== Banners 
+advancements.explorercraft.banner_leek.title=icono de Wales
+advancements.explorercraft.banner_leek.description=Smug a leek onto a banner!
+advancements.explorercraft.banner_heart.title=Corazon de Wales
+advancements.explorercraft.banner_heart.description=Burn the heart onto a banner!
+advancements.explorercraft.banner_slate.title=Mapa de Wales
+advancements.explorercraft.banner_slate.description=Smash slate onto a banner!
+
+advancements.explorercraft.gem_hunting.title=Cosas Preciosas!
+advancements.explorercraft.gem_hunting.description=Descubre las gemas ocultas!
+
+advancements.explorercraft.rice.title=Arroz Arroz!
+advancements.explorercraft.rice.description=Crea un delicioso bol de arroz!
+advancements.explorercraft.rice_straw.title=La Nobleza Espera!
+advancements.explorercraft.rice_straw.description=Craftea Felpudos Tatami!
+
+advancements.explorercraft.bamboo1.title=Tronco de Bamboo!
+advancements.explorercraft.bamboo1.description=Seis piezas planas para el suelo!
+advancements.explorercraft.bamboo2.title=Muro de Bamboo!
+advancements.explorercraft.bamboo2.description=Seis piezas apiladas para el muro!
+
+
+advancements.explorercraft.mine_jade.title=Mineral del Este!
+advancements.explorercraft.mine_jade.description=Jade Descubierto!
+advancements.explorercraft.mine_ruby.title=Joya de la Montaña
+advancements.explorercraft.mine_ruby.description=Rubí Descubierto!
+advancements.explorercraft.mine_amethyst.title=Tesoro de la Tierra
+advancements.explorercraft.mine_amethyst.description=Amatista Descubierta!
+
+advancements.explorercraft.basalt.title=Basalto Descubierto!
+advancements.explorercraft.basalt.description=Forjado en los fuegos de Mordor!
+advancements.explorercraft.marble.title=Marmol Descubierto!
+advancements.explorercraft.marble.description=Esto no usaban los Griegos?
+
+
+//=== Ores 
+tile.explorercraft.ruby_ore.name=Mena de rubí
+tile.explorercraft.amethyst_ore.name=Mena de amatista
+tile.explorercraft.jade_ore.name=Mena de jade
+
+//=== Blocks
+tile.explorercraft.ruby_block.name=Bloque de rubí
+tile.explorercraft.amethyst_block.name=Bloque de amatista
+tile.explorercraft.jade_block.name=Bloque de jade
+
+//=== Armour
+item.explorercraft.ruby_horse_armor.name=Armadura de rubí para caballo
+item.explorercraft.amethyst_horse_armor.name=Armadura de amatista para caballo
+item.explorercraft.jade_horse_armor.name=Armadura de jade para caballo
+
+item.explorercraft.ruby_helmet.name=Casco de rubí
+item.explorercraft.ruby_chestplate.name=Peto de rubí
+item.explorercraft.ruby_leggings.name=Gebras de rubí
+item.explorercraft.ruby_boots.name=Botas de rubí
+
+item.explorercraft.amethyst_helmet.name=Casco de amatista
+item.explorercraft.amethyst_chestplate.name=Peto de amatista
+item.explorercraft.amethyst_leggings.name=Gebras de amatista
+item.explorercraft.amethyst_boots.name=Botas de amatista
+
+item.explorercraft.jade_helmet.name=Casco de jade
+item.explorercraft.jade_chestplate.name=Peto de jade
+item.explorercraft.jade_leggings.name=Gebras de jade
+item.explorercraft.jade_boots.name=Botas de jade
+
+//=== Tools
+item.explorercraft.ruby_axe.name=Hacha de rubí
+item.explorercraft.ruby_hoe.name=Azada de rubí
+item.explorercraft.ruby_pickaxe.name=Pico de rubí
+item.explorercraft.ruby_shovel.name=Pala de rubí
+item.explorercraft.ruby_sword.name=Espada de rubí
+
+item.explorercraft.amethyst_axe.name=Hacha de amatista
+item.explorercraft.amethyst_hoe.name=Azada de amatista
+item.explorercraft.amethyst_pickaxe.name=Pico de amatista
+item.explorercraft.amethyst_shovel.name=Pala de amatista
+item.explorercraft.amethyst_sword.name=Espada de amatista
+
+item.explorercraft.jade_axe.name=Hacha de jade
+item.explorercraft.jade_hoe.name=Azada de jade
+item.explorercraft.jade_pickaxe.name=Pico de jade
+item.explorercraft.jade_shovel.name=Pala de jade
+item.explorercraft.jade_sword.name=Espada de jade
+
+//=== Earth Blocks
+tile.explorercraft.basalt.name=Basalto
+tile.explorercraft.basalt_cobblestone.name=Roca de basalto
+tile.explorercraft.basalt_polished.name=Basalto pulido
+tile.explorercraft.basalt_bricks.name=Ladrillos de basalto
+tile.explorercraft.basalt_mossy.name=Ladrillos de basalto musgoso
+tile.explorercraft.basalt_cracked.name=Ladrillos de basalto agrietados
+tile.explorercraft.basalt_chiseled.name=Ladrillos de basalto cincelado
+tile.explorercraft.basalt_pillar.name=Pilar de basalto
+
+tile.explorercraft.basalt_brick_slab.name=Losa de ladrillos de basalto
+tile.explorercraft.basalt_brick_stairs.name=Escaleras de Ladrillos de basalto
+tile.explorercraft.basalt_brick_wall.name=Muro de ladrillos de Basalto
+
+tile.explorercraft.marble.name=Mármol
+tile.explorercraft.marble_polished.name=Mármol pulido
+tile.explorercraft.marble_bricks.name=Ladrillos de mármol
+tile.explorercraft.marble_mossy.name=Ladrillos de mármol musgoso
+tile.explorercraft.marble_cracked.name=Ladrillos de mármol agrietados
+tile.explorercraft.marble_chiseled.name=Ladrillos de mármol cincelado
+tile.explorercraft.marble_pillar.name=Pilar de mármol
+
+tile.explorercraft.marble_brick_slab.name=Losa de ladrillos de mármol
+tile.explorercraft.marble_brick_stairs.name=Escaleras de ladrillos de mármol
+tile.explorercraft.marble_brick_wall.name=Muro de ladrillos de mármol
+
+tile.explorercraft.slate.name=Pizarra
+tile.explorercraft.slate_polished.name=Pizarra pulida
+tile.explorercraft.slate_bricks.name=Ladrillos de pizarra
+tile.explorercraft.slate_mossy.name=Ladrillos de pizarra musgoso
+tile.explorercraft.slate_tile.name=Losas de pizarra
+tile.explorercraft.slate_chiseled.name=Pizarra cincelada
+tile.explorercraft.slate_welsh.name=Pizarra gales
+tile.explorercraft.slate_pillar.name=Muro de pizarra
+
+tile.explorercraft.slate_brick_slab.name=Losa de ladrillos de pizarra
+tile.explorercraft.slate_brick_wall.name=Muro de ladrillos de pizarra
+tile.explorercraft.slate_brick_stairs.name=Escalera de ladrillos de pizarra
+tile.explorercraft.slate_tile_stairs.name=Escalera de losas de pizarra
+
+tile.explorercraft.tatami_half.name=Media alfombra de tatami
+tile.explorercraft.leek_crop.name=Brote de poro
+tile.explorercraft.leek_wild.name=Poro salvaje
+tile.explorercraft.daffodil.name=Narcisos
+tile.explorercraft.water_grass.name=Water Grass
+
+//=== Trees and Woods
+tile.explorercraft.ash_log.name=Tronco de fresno
+tile.explorercraft.ash_planks.name=Madera de fresno
+tile.explorercraft.ash_leaves.name=Hojas de fresno
+tile.explorercraft.ash_sapling.name=Brote de fresno
+tile.explorercraft.ash_stairs.name=Escaleras de fresno
+tile.explorercraft.ash_slab.name=Losa de fresno
+tile.explorercraft.ash_fence.name=Valla de fresno
+tile.explorercraft.ash_fence_gate.name=Puerta de valla de fresno
+item.explorercraft.ash_door.name=Puerta de fresno
+
+tile.explorercraft.bamboo_log.name=Bamboo
+tile.explorercraft.bamboo_planks.name=Madera de bamboo
+tile.explorercraft.bamboo_planks_vertical.name=Muro de bamboo
+tile.explorercraft.bamboo_leaves.name=Hojas de bamboo
+tile.explorercraft.bamboo_sapling.name=Brote de bamboo
+tile.explorercraft.bamboo_stairs.name=Escaleras de bamboo
+tile.explorercraft.bamboo_slab.name=Losa de bamboo
+tile.explorercraft.bamboo_fence.name=Valla de bamboo
+tile.explorercraft.bamboo_fence_gate.name=Puerta de valla de bamboo
+item.explorercraft.bamboo_door.name=Puerta de bamboo
+
+tile.explorercraft.cherry_log.name=Tronco de cerezo
+tile.explorercraft.cherry_planks.name=Madera de cerezo
+tile.explorercraft.cherry_leaves.name=Hojas de cerezo
+tile.explorercraft.cherry_sapling.name=Brote de cerezo
+tile.explorercraft.cherry_stairs.name=Escaleras de cerezo
+tile.explorercraft.cherry_slab.name=Losa de cerezo
+tile.explorercraft.cherry_fence.name=Valla de cerezo
+tile.explorercraft.cherry_fence_gate.name=Puerta de valla de cerezo
+item.explorercraft.cherry_door.name=Puerta de cerezo
+
+tile.explorercraft.maple_log.name=Tronco de maple
+tile.explorercraft.maple_planks.name=Madera de maple
+tile.explorercraft.maple_leaves.name=Hojas de maple
+tile.explorercraft.maple_sapling.name=Brote de maple
+tile.explorercraft.maple_stairs.name=Escaleras de maple
+tile.explorercraft.maple_slab.name=Losa de maple
+tile.explorercraft.maple_fence.name=Valla de maple
+tile.explorercraft.maple_fence_gate.name=Puerta de valla de maple
+item.explorercraft.maple_door.name=Puerta de maple
+
+item.explorercraft.tatami.name=Alfombra de tatami
+item.explorercraft.tatami_half.name=Media alfombra de tatami
+item.explorercraft.rice.name=Arroz
+item.explorercraft.leek.name=Poro
+item.explorercraft.cheese.name=Queso
+item.explorercraft.dried_fruits.name=Frutos secos
+item.explorercraft.welsh_cakes.name=Pastel gales
+item.explorercraft.welsh_rarebit.name=Welsh Rarebit
+item.explorercraft.lamb_shank.name=Pierna de cordero cruda
+item.explorercraft.lamb_shank_cooked.name=Pierna de cordero cocinada
+
+item.explorercraft.rice_bowl.name=Bol de Arroz
+item.explorercraft.leek_bowl.name=Sopa de Leek
+item.explorercraft.cawl_bowl.name=Sopa
+item.explorercraft.rice_straw.name=Paja de arroz
+
+item.explorercraft.welsh_shield.name=Escudo de Cymru
+item.explorercraft.wizard_hat.name=Gorro de Mago
+item.explorercraft.wizard_staff.name=Vara de Hechizero
+tile.explorercraft.dragon_heart.name=Corazon de Y Ddraig Goch
+
+
+
+
+
+
+
+# No tengo ni idea de qué es esto
+//========= Banner Colors 
+item.banner.welshflag.black=Black Welsh Flag
+item.banner.welshflag.red=Red Welsh Flag
+item.banner.welshflag.green=Green Welsh Flag
+item.banner.welshflag.brown=Brown Welsh Flag
+item.banner.welshflag.blue=Blue Welsh Flag
+item.banner.welshflag.purple=Purple Welsh Flag
+item.banner.welshflag.cyan=Cyan Welsh Flag
+item.banner.welshflag.silver=Light Gray Welsh Flag
+item.banner.welshflag.gray=Gray Welsh Flag
+item.banner.welshflag.pink=Pink Welsh Flag
+item.banner.welshflag.lime=Lime Welsh Flag
+item.banner.welshflag.yellow=Yellow Welsh Flag
+item.banner.welshflag.lightBlue=Light Blue Welsh Flag
+item.banner.welshflag.magenta=Magenta Welsh Flag
+item.banner.welshflag.orange=Orange Welsh Flag
+item.banner.welshflag.white=White Welsh Flag
+
+item.banner.wales.black=Black Wales Silhouette
+item.banner.wales.red=Red Wales Silhouette
+item.banner.wales.green=Green Wales Silhouette
+item.banner.wales.brown=Brown Wales Silhouette
+item.banner.wales.blue=Blue Wales Silhouette
+item.banner.wales.purple=Purple Wales Silhouette
+item.banner.wales.cyan=Cyan Wales Silhouette
+item.banner.wales.silver=Light Gray Wales Silhouette
+item.banner.wales.gray=Gray Wales Silhouette
+item.banner.wales.pink=Pink Wales Silhouette
+item.banner.wales.lime=Lime Wales Silhouette
+item.banner.wales.yellow=Yellow Wales Silhouette
+item.banner.wales.lightBlue=Light Blue Wales Silhouette
+item.banner.wales.magenta=Magenta Wales Silhouette
+item.banner.wales.orange=Orange Wales Silhouette
+item.banner.wales.white=White Wales Silhouette
+
+item.banner.welshdragon.black=Black Welsh Dragon
+item.banner.welshdragon.red=Red Welsh Dragon
+item.banner.welshdragon.green=Green Welsh Dragon
+item.banner.welshdragon.brown=Brown Welsh Dragon
+item.banner.welshdragon.blue=Blue Welsh Dragon
+item.banner.welshdragon.purple=Purple Welsh Dragon
+item.banner.welshdragon.cyan=Cyan Welsh Dragon
+item.banner.welshdragon.silver=Light Gray Welsh Dragon
+item.banner.welshdragon.gray=Gray Welsh Dragon
+item.banner.welshdragon.pink=Pink Welsh Dragon
+item.banner.welshdragon.lime=Lime Welsh Dragon
+item.banner.welshdragon.yellow=Yellow Welsh Dragon
+item.banner.welshdragon.lightBlue=Light Blue Welsh Dragon
+item.banner.welshdragon.magenta=Magenta Welsh Dragon
+item.banner.welshdragon.orange=Orange Welsh Dragon
+item.banner.welshdragon.white=White Welsh Dragon

@@ -1,0 +1,79 @@
+# Tooltips
+tooltip.solcarrot.hearty.not_eaten=¡Aún no lo has probado! ¿A qué sabe?
+tooltip.solcarrot.hearty.eaten=Comido: Asistido para subir corazones
+tooltip.solcarrot.cheap.eaten=Comido: Ningún efecto notable
+tooltip.solcarrot.cheap=Esta comida no es lo suficientemente nutritiva como para mejorar tu salud.
+tooltip.solcarrot.disabled.blacklist=Esta comida está en la blacklist y no puede mejorar tu salud.
+tooltip.solcarrot.disabled.whitelist=Esta comida no está en la whitelist y no puede mejorar tu salud.
+tooltip.solcarrot.disabled.eaten=Comido: Ningún efecton otable
+
+# Comandos, se pueden usar en survival así que los traducí
+command.solcarrot.foodlist.size.usage=/foodlist size [jugador]
+command.solcarrot.foodlist.clear.usage=/foodlist clear [jugador]
+command.solcarrot.foodlist.sync.usage=/foodlist sync [jugador]
+command.solcarrot.foodlist.no_permissions=¡No tienes los permisos necesarios para hacer esto!
+
+command.solcarrot.foodlist.size.desc.foods_eaten.singular=¡Has comido una comida única!
+command.solcarrot.foodlist.size.desc.foods_eaten.plural=¡Has comido %s comidas únicas!
+command.solcarrot.foodlist.size.desc.milestone.max=Ya no puedes ganar corazones probando nuevas comidas.
+command.solcarrot.foodlist.size.desc.milestone.more=Necesitas %s más para incrementar tu salud.
+
+command.solcarrot.foodlist.clear.success=Food list reset!
+
+command.solcarrot.foodlist.sync.success=Food list synchronized!
+
+# Messages
+message.solcarrot.chat_wrapper=Comidas | %s
+message.solcarrot.hearts.singular=un corazón
+message.solcarrot.hearts.plural=%s corazones
+message.solcarrot.milestone_achieved=¡Pero que sabor tan único! ¡Has ganado %s!
+message.solcarrot.finished.chat=Tu deseo de probar comidas únicas ha sido satisfecho.
+message.solcarrot.finished.hotbar=Has ganado %s. Tu deseo de probar comidas únicas ha sido satisfecho.
+
+# Items
+item.solcarrot.food_book.name=Libro de Comida
+
+# GUIs
+gui.solcarrot.food_book.stats=General
+gui.solcarrot.food_book.eaten_foods=Ya Probadas: %s
+gui.solcarrot.food_book.uneaten_foods=Aún no Probadas: %s
+gui.solcarrot.food_book.config=Configuración
+
+gui.solcarrot.food_book.fraction=%1$s/%2$s
+
+gui.solcarrot.food_book.stats.foods_tasted=Comidas Probadas
+gui.solcarrot.food_book.stats.hearts_gained=Corazones Ganados
+gui.solcarrot.food_book.stats.tooltip.progress=%s Más Hasta la Siguiente Meta
+gui.solcarrot.food_book.stats.tooltip.progress.max=Meta Máxima Alcanzada!
+gui.solcarrot.food_book.stats.tooltip.previous_milestone=Meta Anterior: %s
+gui.solcarrot.food_book.stats.tooltip.next_milestone=Siguiente Meta: %s
+gui.solcarrot.food_book.stats.tooltip.total_foods=%s Comidas Totales
+gui.solcarrot.food_book.stats.tooltip.foods_tasted=Comidas Probadas: %s
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular=1 Corazón por Meta
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural=%s Corazones por Meta
+
+gui.solcarrot.food_book.config.minimum_food_value=Valor Mínimo de Comida
+gui.solcarrot.food_book.config.tooltip.minimum_food_value=El valor mínimo de comida se provee para poder contar las metas.
+gui.solcarrot.food_book.config.hearty_fraction=Comidas Nutritivas
+gui.solcarrot.food_book.config.tooltip.hearty_fraction=De %1$s comidas, %2$s son lo suficientemente nutritivas como para mejorar tu salud.
+gui.solcarrot.food_book.config.eaten_cheap_foods=Comidas Aburridas Probadas
+gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods=De las %1$s comidas que no son nutritivas, has comido %2$s.
+gui.solcarrot.food_book.config.blacklist=Comidas en la Blacklist
+gui.solcarrot.food_book.config.whitelist=Comidas en la Whitelist
+gui.solcarrot.food_book.config.tooltip.blacklist=Cuántas comidas han sido desactivadas por la blacklist.
+gui.solcarrot.food_book.config.tooltip.whitelist=Cuántas comidas permite la whitelist.
+
+# Config, no es necesario traducir
+config.solcarrot.base_hearts=Base Hearts
+config.solcarrot.hearts_per_milestone=Hearts per Milestone
+config.solcarrot.milestones=Milestones
+config.solcarrot.is_food_tooltip_enabled=Enable Food Tooltip
+config.solcarrot.should_show_progress_above_hotbar=Show Progress Above Hotbar
+config.solcarrot.should_show_uneaten_foods=Show Uneaten Foods
+config.solcarrot.should_play_milestone_sounds=Enable Milestone Sounds
+config.solcarrot.should_spawn_intermediate_particles=Enable Intermediate Particles
+config.solcarrot.should_spawn_milestone_particles=Enable Milestone Particles
+config.solcarrot.food_blacklist=Blacklist
+config.solcarrot.food_whitelist=Whitelist (disables blacklist)
+config.solcarrot.minimum_food_value=Minimum Food Value
+config.solcarrot.reset_on_death=Reset on Death

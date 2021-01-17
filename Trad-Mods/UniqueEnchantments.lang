@@ -1,0 +1,88 @@
+//Simple
+enchantment.uniquee.berserk=Salvaje
+enchantment.uniquee.berserk.desc=Cuanto más baja tu salud, más alto tu daño.
+enchantment.uniquee.all=Nitidez Mejorada
+enchantment.uniquee.all.desc=Una versión avanzada de Filo.
+enchantment.uniquee.undead=Golpeo Mejorado
+enchantment.uniquee.undead.desc=Una versión avanzada de Golpeo.
+enchantment.uniquee.arthropods=Perdición de los Artrópodos Mejorado
+enchantment.uniquee.arthropods.desc=Una versión avanzada de Perdición de los Artrópodos.
+enchantment.uniquee.vitae=Vitalidad
+enchantment.uniquee.vitae.desc=Te da más salud.
+enchantment.uniquee.swift=Ligero
+enchantment.uniquee.swift.desc=Te da más velocidad.
+enchantment.uniquee.sages_blessing=Bendición del Sabio
+enchantment.uniquee.sages_blessing.desc=Aumenta la XP que se gana por cada nivel de encantamiento.
+enchantment.uniquee.ender_eyes=Ojos de Ender
+enchantment.uniquee.ender_eyes.desc=Los Enderman no te atacarán si los miras.
+enchantment.uniquee.focus_impact=Impacto Concentrado
+enchantment.uniquee.focus_impact.desc=Da a las armas con baja velocidad de recargado mucho más daño.
+enchantment.uniquee.bone_crusher=Rompehuesos
+enchantment.uniquee.bone_crusher.desc=Aumenta el daño hecho a Esqueletos, y mejora lo que tiran.
+enchantment.uniquee.ranged=Rango
+enchantment.uniquee.ranged.desc=Aumenta el rango, pero reduce el daño y velocidad de minado cuando el rango bonus está en uso.
+enchantment.uniquee.treasurers_eyes=Ojos Ávidos
+enchantment.uniquee.treasurers_eyes.desc=Permite ver los efectos de encantamientos en entidades.
+
+//Complex
+enchantment.uniquee.swiftblade=Acuchillada Rápida
+enchantment.uniquee.swiftblade.desc=Da a las armas con rápido ataque mucho más daño.
+enchantment.uniquee.spartanweapon=Arma Espartana
+enchantment.uniquee.spartanweapon.desc=Das daño bonus cuando tienes un escudo.
+enchantment.uniquee.perpetualstrike=Golpe Perpetuo
+enchantment.uniquee.perpetualstrike.desc=Tu daño aumenta si golpeas consecutivamente al mismo objetivo.
+enchantment.uniquee.climate_tranquility=Tranquilidad Climática
+enchantment.uniquee.climate_tranquility.desc=En biomas particularmente calientes o frías, tu arma contra-atacará la temperatura con el elemento opuesto.
+enchantment.uniquee.momentum=Momentum
+enchantment.uniquee.momentum.desc=Minar sin parar aumenta la velocidad de minado.
+enchantment.uniquee.ender_mending=Reparación Ender
+enchantment.uniquee.ender_mending.desc=Versión avanzada de Reparación, va a almacenar la experiencia en exceso en la arma. Reparación Ender va a dividir su experiencia a cada item que pueda.
+enchantment.uniquee.smart_ass=Sabelotodo
+enchantment.uniquee.smart_ass.desc=Al picar Grava, Madera o Madera, romperás el bloque de arriba primero.
+
+//Unique
+enchantment.uniquee.warriorsgrace=Gracia de Guerrero
+enchantment.uniquee.warriorsgrace.desc=Matar un enemigo repone la durabilidad con la salud del enemigo. Cuanto más difícil el enemigo, más grande el beneficio.
+enchantment.uniquee.naturesgrace=Gracia Natural
+enchantment.uniquee.naturesgrace.desc=Al pararse cerca de Flores u Hojas restaurará salud mientras no estás en combate.
+enchantment.uniquee.fastfood=Comida Rápida
+enchantment.uniquee.fastfood.desc=Criaturas No Hostiles ya no tirarán items, pero sus muertes restaurarán tu hambre.
+enchantment.uniquee.endermarksmen=Tirador Ender
+enchantment.uniquee.endermarksmen.desc=Golpear un blanco restaura durabilidad y te regresa tu flecha.
+enchantment.uniquee.cloudwalker=Caminante de Nubes
+enchantment.uniquee.cloudwalker.desc=Permite agacharse en medio del aire para parar una caida. Sin embargo, aún recibirás daño de caida basado en cuanto caíste antes de agacharte.
+enchantment.uniquee.aresblessing=Bendición de Ares
+enchantment.uniquee.aresblessing.desc=Con este encantamiento, golpes finales de enemigos serán absorvidos por tu armadura, consumiendo durabilidad. Sin embargo, daño de otras fuentes aún serán peligrosos.
+enchantment.uniquee.alchemistsgrace=Gracia del Alquimista
+enchantment.uniquee.alchemistsgrace.desc=Dar un golpe en un enemigo te da efectos beneficiosos dependiendo del nivel del encantamiento.
+enchantment.uniquee.ecological=Ecológico
+enchantment.uniquee.ecological.desc=Pararse cerca de árboles va a recuperar lentamente la durabilidad de tu herramienta.
+enchantment.uniquee.phoenixs_blessing=Bendición del Fénix
+enchantment.uniquee.phoenixs_blessing.desc=Al morir, tu Tótem de la Inmortalidad te resucitará con toda la vida y hambre restaurada.
+enchantment.uniquee.midas_blessing=Bendición de Midas
+enchantment.uniquee.midas_blessing.desc=Shift+Click Derecho en un yunque para almacenar Lingotes de Oro en tu herramienta. Al minar cualquier tipo de gema, tus reservas de oro bajarán para incrementar los drops.
+enchantment.uniquee.ifrits_grace=Gracia de Ifrit
+enchantment.uniquee.ifrits_grace.desc=Alimenta a tu herramienta con Lava con Shift+Click Derecho en un yunque con los items en tu inventario. El poder almacenado en esta herramienta va a fundir bloques minados.
+enchantment.uniquee.icarus_aegis=Égida de Icaro
+enchantment.uniquee.icarus_aegis.desc=Almacena plumas en tus Elytras con Shift+Click Derecho en un yunque con plumas en tu inventario. Luego, las elitras consumirán las plumas para prevenir daño relacionado con caidas al planear.
+enchantment.uniquee.ender_librarian=Biblioteca Ender
+enchantment.uniquee.ender_librarian.desc=Puedes presionar click derecho con un mapa con este encantamiento para teletransportarte a un lugar al azar de este mapa. Esto consume el item.
+enchantment.uniquee.demeters_soul=Alma de Démeter
+enchantment.uniquee.demeters_soul.desc=Shift+Click derecho en un cultivo para reclamarlo. Los cultivos marcados solo producirán una vez pero serán automáticamente cosechados y almacenados en tu Ender Chest.
+
+//Curse
+enchantment.uniquee.pestilences_odium=Ambiente Pestilente
+enchantment.uniquee.pestilences_odium.desc=Criaturas no hostiles cerca tuyo serán continuamente dañadas, pero no tirarán nada al morir.
+enchantment.uniquee.deaths_odium=Ambiente de la Muerte
+enchantment.uniquee.deaths_odium.desc=Al morir con esta maldición en tu armadura reducirá tu vida base. La vida perdida puede ser temporalmente recuperada siempre y cuando el objeto se mantenga equipado.
+
+//Potion
+potion.uniquee.uniquepestilences_odium=Ambiente Pestilente
+
+//Tooltips
+tooltip.uniqee.stored.gold.name="Oro Almacenado: %s"
+tooltip.uniqee.stored.lava.name="Lava Almacenada: %s"
+tooltip.uniqee.stored.feather.name="Plumas Almacenadas: %s"
+tooltip.uniqee.stored.repair.name="Refacciones Almacenadas: %s"
+tooltip.uniqee.crops.added.name="Añadido Cultivo al Auto Cultivador"
+tooltip.uniqee.crops.removed.name="Removido Cultivo del Auto Cultivador"
