@@ -17,6 +17,7 @@ Algunas traducciones tienen partes sin traducir, esto debido a que me centr√© m√
 * MrCrayfish's Furniture Mod *v. 6.3.1*
 * MrCrayfish's Vehicle Mod *v. 0.44.1*
 * Mutant Beasts *v. 1.0.1*
+* Pam's Harvestcraft *v 1.12.2zg*
 * Primitive Mobs *v. 1.2.3a*
 * Quark *v. 1.6-179*
 * Spice of Life: Carrot Edition *v. 1.8.4*
