@@ -8,6 +8,7 @@ Algunas traducciones tienen partes sin traducir, esto debido a que me centr√© m√
 
 **Mods Recolectados:**
 * BetterNether *v. 0.1.8.6*
+* Chisel *v. 1.0.2.45*
 * Chococraft 3  *v. 0.9.8.0*
 * Cooking for Blockheads *v. 6.5.0*
 * Electroblob's Wizardry *v. 4.2.11*
